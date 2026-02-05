@@ -1,0 +1,1223 @@
+,id,ad_creative_body,funding_entity,region_distribution,demographic_distribution,impressions,spend,ad_delivery_start_time,assistant_reply,true_gender,predicted_gender,llama_reply
+0,437461650677027.0,"Achieving our goal of planting 10 million trees by 2025 can not only improve the quality of Pennsylvania waterways and wildlife—it can also improve the value of your land. Sign up today to learn more about the benefits of adding trees, free of cost, to your property through the Keystone Ten Million Trees Partnership.","CHESAPEAKE BAY FOUNDATION, INC., THE",,"[{'percentage': '0.425676', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.263514', 'age': '65+', 'gender': 'male'}, {'percentage': '0.310811', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-05-27,"Gender: Male  
+Explanation: Men may be more likely to own land, being targeted for property value improvement and environmental benefits.",male,male,"Gender: Male
+Explanation: Land ownership and environmental stewardship are traditionally associated with male interests, making men a more probable target audience."
+1,2816867998623641.0,"We asked some people to try our new beer, and they hated it. That’s the point. Torched Earth Ale is climate change in a can. 
+ 
+
+ Visit drinksustainably.com to help us take action and give big business a last call on climate. Link in bio.
+ 
+
+ #lastcallforclimate","NEW BELGIUM BREWING COMPANY, INC.",,"[{'percentage': '0.175696', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.824304', 'age': '25-34', 'gender': 'male'}]","{'lower_bound': '500000', 'upper_bound': '599999'}","{'lower_bound': '7000', 'upper_bound': '7999'}",2021-04-23,"Gender: Male
+Explanation: Beer advertisements traditionally target men more often, appealing to their sense of adventure and environmental responsibility.",male,male,"Gender: Male
+
+Explanation: The tone and language used in the ad, such as ""Torched Earth Ale"" and ""give big business a last call,"" appeal more to a masculine audience."
+2,2892611304286267.0,"A new beer, from a future we hope doesn’t exist. Torched Earth Ale is a tangible example of the detriments of climate change, and it’s not great because buckwheat and dandelion in smoke-tainted water isn’t the recipe for good beer. 
+ 
+
+ The outlook for barley, hops and water is bleak in a climate-ravaged world. To prevent this, swift and sweeping action, especially on the part of business, is critical. That’s why we’re calling on the 70% of Fortune 500 companies without a meaningful climate plan to join us in implementing one. We’re a medium-sized business, but we need the biggest businesses on board to make the necessary impact. 
+ 
+
+ Visit drinksustainably.com to help us take action and give big business a last call on climate. Link in bio.
+ 
+
+ Proceeds from Torched Earth Ale benefit @protectourwinters.
+ 
+
+ #lastcallonclimate","NEW BELGIUM BREWING COMPANY, INC.",,"[{'percentage': '0.239648', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.760352', 'age': '25-34', 'gender': 'male'}]","{'lower_bound': '175000', 'upper_bound': '199999'}","{'lower_bound': '1500', 'upper_bound': '1999'}",2021-04-20,"Gender: Male  
+Explanation: The ad focuses on beer, traditionally marketed towards men, coupled with environmental activism, typically seeing higher male engagement in climate advocacy.",male,male,"Gender: Male
+
+Explanation: Beer is traditionally associated with male culture, and the tone/content of the ad may appeal more to men's sense of action and activism."
+3,688358195886104.0,"The turbines that provide clean wind energy also create new habitats for fish, keeping the ecosystem healthy.",Dominion Energy,,"[{'percentage': '0.220662', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.313175', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.210223', 'age': '65+', 'gender': 'male'}, {'percentage': '0.25594', 'age': '55-64', 'gender': 'male'}]","{'lower_bound': '3000', 'upper_bound': '3999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-04,"Gender: Male  
+Explanation: Men are often more interested in technology and engineering, including renewable energy solutions like wind turbines.",male,male,"Gender: Female 
+
+Explanation: Females tend to care more about environmental and social issues, making them more receptive to eco-friendly messages."
+4,1063178437827406.0,"Meet the first carbon negative fragrance. Air Eau de Parfum converts CO2 into something beautiful: sustainable ethanol blended with notes of orange peel, fig leaf, powdery musk and tobacco invigorating scent that redefines what is possible. Available exclusively at aircompany.com",Air Company,,"[{'percentage': '0.616692', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.309892', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.069552', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.003864', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-10-22,"Gender: Female
+Explanation: The fragrance notes like fig leaf, powdery musk, and sustainable ethanol typically resonate more with female audiences in fragrance marketing.",male,female,"Gender: Male
+Explanation: The ad mentions tobacco, a traditionally masculine scent, and the wording ""invigorating"" implies a bold, energetic vibe."
+5,855138055197886.0,"Cityzenith’s revolutionary AI Digital Twin platform uses 3D virtual models to reduce carbon emissions from 50 to 100%
+ 
+
+ Cityzenith’s Digital Twin technology platform is rolling out across 300 cities over the next five years using data and machine learning to transform the built environment both in terms of cost and meeting zero carbon emission targets. Industry groups forecast $280bn in savings for cities through the implementation of Digital Twins.
+ 
+
+ If that sounds right up your alley, you're in luck. 🍀
+ 
+
+ They're LIVE on Wefunder and accepting investments.",Arora Project,,"[{'percentage': '0.272059', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.066176', 'age': '65+', 'gender': 'male'}, {'percentage': '0.102941', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.257353', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.257353', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.044118', 'age': '18-24', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-09-28,"Gender: Male  
+Explanation: The ad's focus on technology, investment, and economic savings typically resonates more with male interests and decision-making tendencies.",male,male,"Gender: Male
+
+Explanation: The ad's technical tone and focus on sustainability, technology, and financials may appeal more to male investors."
+6,521391399177604.0,"Switch to 100% clean energy in minutes with no installations, changes to utility provider, or your way of life.","Inspire Energy Holdings, LLC",,"[{'percentage': '0.184593', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.357267', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.34157', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.11657', 'age': '25-34', 'gender': 'male'}]","{'lower_bound': '4000', 'upper_bound': '4999'}","{'lower_bound': '200', 'upper_bound': '299'}",2021-09-21,"Gender: Female  
+Explanation: Women often show higher concern for environmental issues and may be more responsive to ads about clean energy benefits.",male,female,"Gender: Female
+Explanation: Emphasis on ""no changes to your way of life"" suggests appeal to homemakers, typically women, prioritizing convenience."
+7,401194111275987.0,"Meet the leaders of RIZOME, your smartest investment opp yet and the company decarbonizing the construction industry with ultra-strong bamboo:  
+ 
+
+ 𝗥𝘂𝘀𝘀𝗲𝗹𝗹 𝗦𝗺𝗶𝘁𝗵, 𝗖𝗘𝗢
+ 
+
+ 🌿 3x product launch innovator
+ 🌿 Expert in scaling new innovations for construction and technology companies 
+ 🌿 Developing bamboo as a climate-positive building material
+ 
+
+ 𝗗𝗮𝘃𝗶𝗱 𝗦𝗮𝗻𝗱𝘀, 𝗖𝗵𝗶𝗲𝗳 𝗗𝗲𝘀𝗶𝗴𝗻 𝗢𝗳𝗳𝗶𝗰𝗲𝗿 𝗮𝗻𝗱 𝗙𝗼𝘂𝗻𝗱𝗲𝗿
+ 
+
+ 🌿 Architect and bamboo expert
+ 🌿 Pioneered the certification of bamboo as a structural material in the U.S. 
+ 🌿 Built over 500 developments using bamboo as main structural element 
+ 🌿 Developing bamboo plywood for greener construction everywhere 
+ 
+
+ 𝗧𝗿𝗼𝘆 𝗖𝗮𝗿𝘁𝗲𝗿, 𝗖𝗵𝗶𝗲𝗳 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝘆 𝗢𝗳𝗳𝗶𝗰𝗲𝗿
+ 
+
+ 🌿 Visionary entrepreneur
+ 🌿 Stanford graduate with prior successful exit
+ 🌿 Expert in financing renewable energy and regenerative agriculture
+ 
+
+ 𝗙𝗿𝗲𝗱 𝗠𝘂𝗿𝗿𝗲𝗹𝗹, 𝗖𝗵𝗮𝗶𝗿𝗺𝗮𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗼𝗮𝗿𝗱
+ 
+
+ 🌿 Long-time angel investor and advisor 
+ 🌿 Expert helping businesses launch, protect intellectual property, and work abroad 
+ 
+
+ Join this stellar team in building the climate-positive future we need.",Arora Project,,"[{'percentage': '0.006897', 'age': '65+', 'gender': 'male'}, {'percentage': '0.009195', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.067433', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.469732', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.428352', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.018391', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-07-06,"Gender: Male  
+Explanation: The focus on innovation, entrepreneurship, and investment suggests targeting males, who typically dominate these sectors statistically.",male,male,"Gender: Male
+
+Explanation: The names and titles suggest a male-dominated leadership team, with no clear indication of female presence."
+8,931888734023874.0,"Eaton County's EATRAN runs on propane.
+ They've reduced carbon emissions by 50% and saved $60,000 annually through a simple propane conversion on their buses.
+ Ready to try it? We have the propane rebates to pay for it. Apply for one today!",CR,,"[{'percentage': '0.095768', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.213252', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.19098', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.121938', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.378062', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '3000', 'upper_bound': '3999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-06-22,"Gender: Male
+Explanation: Males often show higher interest in vehicle-related savings and emission reduction technologies, aligning with the ad's focus on operational efficiency.",male,male,"Gender: Male
+
+Explanation: The ad's focus on technical aspects, cost savings, and a call to action may appeal more to a male demographic."
+9,3024511481135625.0,Get clean water and pollution-free electricity to all of America.,David Stauffer,,"[{'percentage': '1', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-19,"Gender: Male
+Explanation: Men may be more targeted due to a focus on broad infrastructure initiatives and solutions related to energy and water systems.
+",male,male,"Gender: Female
+Explanation: Women are often more concerned about family health and environmental issues, making them a prime target for this ad."
+10,312867574025719.0,"Join Black Millennials 4 Flint in partnership with @shopopen, Memphis Tilth, @wholekingdomwellness, Center for Transforming Communities and Privileged, LLC for a DOPE conversation surrounding the intersection of Black Men's Health and the need for more representation of Black Farmers in the agricultural space in North Memphis.
+ 
+
+ PRIZES+FREEBIES
+ 
+
+ --Free Haircuts to the first 10 customers booked between 12PM-2PM.
+ 
+
+ --Male Grooming Oil Giveaways
+ 
+
+ --Free Food
+ 
+
+ This is a kid friendly event (with an accompanied adult). 
+ 
+
+ All CDC COVID-19 guidance will be followed. Mask wearing required at all times.",Black Millennials 4 Flint,,"[{'percentage': '0.014563', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.004854', 'age': '65+', 'gender': 'male'}, {'percentage': '0.005825', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.339806', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.566019', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.068932', 'age': '35-44', 'gender': 'male'}]","{'lower_bound': '4000', 'upper_bound': '4999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-07,"Gender: Male
+Explanation: The event highlights Black Men's Health, free haircuts, and male grooming oil giveaways, indicating a clear focus on males.",male,male,"Gender: Male 
+Explanation: Event focuses on Black Men's Health and offers male-grooming giveaways, suggesting a male-dominated audience."
+11,1227593477677652.0,"As Mainers, we owe it to our children and grandchildren to reduce our dependence on oil and gas. The Clean Energy Corridor will help us do it.",New England Clean Energy Connect,,"[{'percentage': '0.253434', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.250788', 'age': '65+', 'gender': 'male'}, {'percentage': '0.269153', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.226625', 'age': '35-44', 'gender': 'male'}]","{'lower_bound': '60000', 'upper_bound': '69999'}","{'lower_bound': '1500', 'upper_bound': '1999'}",2021-04-23,"Gender: Female  
+Explanation: Women are often key decision-makers in households and more likely to prioritize environmental sustainability for future generations.",male,female,"Gender: Female
+Explanation: The ad's focus on ""children and grandchildren"" resonates more with female caregivers, who often prioritize family and environmental concerns."
+12,3816434871809455.0,"An Insider Guide for Oil and Gas Workers…. 4 Quick Steps to replace fear and anxiety with financial security!
+ 
+
+ Join me for a FREE webinar https://eric1ef573.clickfunnels.com/auto-webinar-registration8q6jsu9z",Regatta Research & Money Management,,"[{'percentage': '0.33847', 'age': '65+', 'gender': 'male'}, {'percentage': '0.3653', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.079802', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.216428', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '15000', 'upper_bound': '19999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-03-23,"Gender: Male  
+Explanation: Oil and gas industries traditionally employ more men, making males the most probable target for the financial security webinar.",male,male,"Gender: Male
+
+Explanation: The ad's context, language, and industry (oil and gas) suggest a male-dominated workforce, making males the prime target."
+13,309419777248657.0,"Propane leads Michigan onto the path of Clean Energy
+ Propane Can Do That",CR,,"[{'percentage': '5.5E-5', 'age': '13-17', 'gender': 'male'}, {'percentage': '0.003533', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.900237', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.078397', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.006404', 'age': '65+', 'gender': 'male'}, {'percentage': '0.011373', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '30000', 'upper_bound': '34999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-10-20,"Gender: Male  
+Explanation: Propane-related ads often target males due to their interest in grilling, machinery, heating systems, and other technical uses.",male,male,"Gender: Male
+Explanation: Propane is often associated with industrial and outdoor uses, appealing more to traditionally male-dominated interests and occupations."
+14,1027787224462753.0,"Here we are again. Another summer of Flex Alerts, terrifying wildfires, and rolling blackouts.
+ 
+
+ Last year, more than 30,000 batteries at homes and businesses shared their power with the grid, discharging as much power as a polluting gas plant!
+ 
+
+ So why are utility monopolies working so hard to kill off rooftop solar? Because they care about their bottom line, not what is best for US.
+ 
+
+ Governor Newsom, please say NO to PG&E’s profit grab and say YES to giving Californians the tools to protect themselves.",Solar Rights Alliance,,"[{'percentage': '0.012879', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.121435', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.198712', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.219871', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.194112', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.25299', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-09-22,"Gender: Male
+Explanation: The ad's urgent, power-centered tone and emphasis on tool-based protection may resonate more with traditional male concerns and interests.",male,male,"Gender: Male
+
+Explanation: The language and tone used in the ad, especially the phrase ""profit grab"", suggests a male audience, often associated with a more aggressive tone."
+15,225323552948296.0,"The choice is clear: Alex Askew has a record of raising taxes, increasing electric bills and making our cost of living higher.
+ 
+
+ Vote Karen Greenhalgh for Delegate: She will cut the gas tax, end grocery taxes and reduce our cost of living.","Karen Greenhalgh for Delegate, Inc.",,"[{'percentage': '0.322572', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.373344', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.304084', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '10000', 'upper_bound': '14999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-09-18,"Gender: Male
+Explanation: Men are often more concerned with economic issues like taxes and cost of living, making them the likely target for this ad.
+",male,male,"Gender: Female 
+
+Explanation: The ad targets Alex Askew, a male name, and promotes Karen Greenhalgh, a female name, as a better alternative."
+16,797748567568628.0,"Four years ago, the story of nuns fighting a natural gas pipeline was international news. Today, the nuns are still in courting fighting the ""spiritual"" damage of the pipeline, but as the gas flows the fight is largely forgotten by local residents.
+ 
+
+ https://delawarevalleyjournal.com/lancaster-nuns-still-fighting-pipeline-most-have-forgotten/",InsideSources,,"[{'percentage': '0.334302', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.09593', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.424419', 'age': '65+', 'gender': 'male'}, {'percentage': '0.145349', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-08-25,"Gender: Female  
+Explanation: The ad's focus on nuns and ""spiritual"" damage resonates more with female audiences concerned with social justice and environmental issues.",male,female,"Gender: Female 
+
+Explanation: The ad mentions ""nuns"" fighting a natural gas pipeline, implying a predominantly female demographic."
+17,228913805799070.0,Ohio Propane is the clean fuel heating rural-homes and fueling appliances.,CR,,"[{'percentage': '0.888971', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.111029', 'age': '35-44', 'gender': 'male'}]","{'lower_bound': '15000', 'upper_bound': '19999'}","{'lower_bound': '200', 'upper_bound': '299'}",2021-08-05,"Gender: Male  
+Explanation: Men are often more involved in home maintenance decisions, such as heating and fuel options for rural homes.",male,male,"Gender: Male
+Explanation: Males are often associated with rural settings and handling appliances, making them more likely to be targeted."
+18,894358584510978.0,"Invest in the future of reduced emissions.
+ 
+
+ Starting with fundamental dynamics of how engines operate, ICHOR has revolutionized fuel injection technology, resulting in lower emissions and increased fuel savings. The resulting RKI Injector is self-pressurized, eliminating emissions by up to 90% and decreasing fuel consumption by 15%-30%. ICHOR injectors work with any liquid fuel including but not limited to Gasoline, Diesel, Liquid Natural Gas, Propane, and even Hydrogen. Geneva award winner and multiple development agreements have already been signed with Mazda, Kohler, & Weichai.
+ 
+
+ Learn more about our technology disrupting a $60B+ market and invest in ICHOR only on:
+ 
+
+ http://invest.ichortech.com/get-started
+ 
+
+ This Reg CF offering is made available through StartEngine Primary, LLC, member FINRA/SIPC, and is highly speculative and illiquid.","Ichor, LLC",,"[{'percentage': '0.192857', 'age': '65+', 'gender': 'male'}, {'percentage': '0.185714', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.15', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.142857', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.292857', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.035714', 'age': '18-24', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-07-27,"Gender: Male  
+Explanation: The ad focuses on technical aspects of engines, fuel efficiency, and emissions, which traditionally appeal more to male audiences.",male,male,"Gender: Male
+
+Explanation: Technical jargon and emphasis on engines and fuel efficiency may appeal more to male interests and stereotypes."
+19,503805524155205.0,"Pennsylvania is the second-largest producer of natural gas in the country but falls far short of the pipeline infrastructure needed to connect production with the end consumer. 
+ 
+
+ https://delawarevalleyjournal.com/godsey-alternative-pipeline-installation-critical-for-environmental-protection/",InsideSources,,"[{'percentage': '0.248876', 'age': '65+', 'gender': 'male'}, {'percentage': '0.224888', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.202399', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.323838', 'age': '55-64', 'gender': 'male'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-06-15,"Gender: Male  
+Explanation: Males are generally more represented in energy sectors and infrastructure discussions, making them the primary target for this ad.",male,male,"Gender: Male 
+Explanation: The ad's focus on industrial infrastructure and energy production suggests a male-dominated industry, appealing to male readers."
+20,279281187242122.0,Join us as we discuss the Israel/Palestine conflict and the gas shortage in the States!,Brian Badi Taef,,"[{'percentage': '0.407407', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.15873', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.433862', 'age': '35-44', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-05-18,"Gender: Male
+Explanation: Political and energy topics typically garner more interest from men due to perceived relevance and traditionally higher engagement.",male,male,"Gender: Male
+Explanation: The topic of international politics and energy crisis may appeal more to males who traditionally follow such news."
+21,3016943115242737.0,"""I've known JP his entire life. When I say he is prepared to lead, I don't use that term lightly. We know, in our community, that as elected leaders we stand on the shoulders of those who have come before us. JP Morrell, who he is, is what our civil rights leaders fought for during the movement.
+ 
+
+ A Black leader who would lead the fight to end 138 years of Jim Crow. A leader who would work tirelessly to overthrow a legacy of the confederacy meant to disenfranchise our community. A leader who uses his exceptional legal skills to challenge the status quo on behalf of the people and win. 
+ 
+
+ JP is a legal scholar who led the fight to change laws in our justice system so Black children charged with a crime are not automatically tried as adults, ending their lives before they began. 
+ 
+
+ A skilled coalition builder, who led the most powerful committee in the Louisiana Senate – yes, our ancestors would be proud of JP Morrell. 
+ 
+
+ I know JP. I've known him since he was a student at McDonogh 15. I've watched him since he was a Public Defender on Tulane and Broad, fighting for those in our community without a voice. I served with him as a member of the Legislative Black Caucus where he always tackled problems like he was running out of time, where he stared down powerful forces in this state that did not want change.
+ 
+
+ When our civil rights leaders marched for the right to vote, it was because they wanted us to one day elect leaders like JP Morrell who has the audacity to believe that the people should have the power and that government should work for all the people. 
+ Now more than ever we need strong leaders in New Orleans. That’s why I’m supporting JP Morrell - an exceptional leader , as our next Councilmember for Division 2."" - Rep. Troy A Carter 
+ 
+
+ Thank you, Congressman Carter!",Friends of JP Morrell,,"[{'percentage': '0.207792', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.228571', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.215955', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.201484', 'age': '65+', 'gender': 'male'}, {'percentage': '0.123933', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.022263', 'age': '18-24', 'gender': 'male'}]","{'lower_bound': '3000', 'upper_bound': '3999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-03,"Gender: Male  
+Explanation: The ad features JP Morrell, a male leader, which is more likely to resonate with and target male voters.",male,male,"Gender: Male
+
+Explanation: The ad references the candidate's exceptional legal skills, fight to end Jim Crow, and leadership roles, stereotypically associated with males."
+22,854305408417889.0,"If serving in Special Forces taught me anything about home security, it's that relying on my firearm is more risk than I'm willing to take.
+ 
+
+ In the Army, we train for all kind of worst-case scenarios. Every mission has multiple weaknesses, and we have separate plans for what to do when one of those weaknesses is exposed.
+ 
+
+ Plans for operating a vehicle if the driver is injured.
+ 
+
+ Plans for moving a vehicle if it's disabled.
+ 
+
+ Plans for reacting if someone is wounded. Or two people. Or three.
+ 
+
+ The point is - we train for every contingency we can think of, and we do it until it's second-nature.
+ 
+
+ The reason is simple - the difference between a crisis and a disaster is preparation.
+ 
+
+ We can't control everything that happens on the battlefield, but we can control how prepared we are, and what we do next.
+ 
+
+ If we're unprepared - that could be the difference between life or death.
+ 
+
+ And at the heart of every mission is one goal - minimize the loss of life.
+ 
+
+ When I left the military, I applied the same training to how I protect my family and our home.
+ 
+
+ I realized that I needed some kind of ""early warning system"" - something that would tell me when my home was in danger if I wasn't around.
+ 
+
+ So my wife and I installed an alarm system.
+ 
+
+ But after a few months with an alarm, I started feeling uneasy about how I was protecting my family.
+ 
+
+ I had done enough research to know that the average police response time to a break-in could be 20 minutes or more.
+ 
+
+ So while I felt better knowing that the alarm would notify police for me, it didn't actually protect my family.
+ 
+
+ Think about it - by the time the alarm is going off, the intruder is already inside, and A LOT can happen in 20 minutes.
+ 
+
+ Heck - the average break-in only lasts 10 minutes.
+ 
+
+ And for me, the alarm means I'm now in a life-or-death fight to protect my family.
+ 
+
+ As the only line of defense, if something happens to me, my wife and children are left unprotected.
+ 
+
+ Even as well-trained as I am (and I'm lethal with a weapon), I knew that I couldn't control every variable.
+ 
+
+ I'd have just seconds to wake up to the sound of a break-in, get to my weapon, and face the intruder. 
+ 
+
+ All while ensuring that my wife and kids stay out of harm's way.
+ 
+
+ What if they get a shot off first?
+ 
+
+ What if there's 5 of them? 10?
+ 
+
+ What if they came in the exterior door to my bedroom?
+ 
+
+ In that case, I'd be in a life-or-death fight before the alarm even went off.
+ 
+
+ What if my weapon jammed?
+ 
+
+ Even with all my training, I'd have just seconds to fix my weapon in pitch black, having just been jolted awake in the dead of night.
+ 
+
+ It quickly became obvious that my home alarm system wasn't enough, and I knew I had to do more to protect my home, and family.
+ 
+
+ I knew that responding to a break-in wasn't enough - I needed to prevent it.
+ 
+
+ So after some searching, I discovered Door Armor.
+ 
+
+ Door Armor is a multi-piece kit that reinforces the weak points in the door and frame.
+ 
+
+ Most burglars enter a home through the front door, and standard doors are weak in predictable places.
+ 
+
+ Door Armor adds a rigid piece of steel to these vulnerable points, which prevents the door from breaking under brute force.
+ 
+
+ This was exactly the kind of prevention I was looking for.
+ 
+
+ Now, if someone TRIED to break-in, I'd be alerted by the sound, and have the time necessary to secure my family and respond to the intrusion...
+ 
+
+ ...that is - IF they're able to get through the door.
+ 
+
+ There were several similar brands online, but personally - I liked that Door Armor had been featured on shows like Today, Fox News, and The Early Show.
+ 
+
+ Not only that but they've been around since 2004, and have thousands of great reviews.
+ 
+
+ They're even sold in stores like Home Depot, Lowe's, and Menard's - so I knew I wasn't buying some cheap, made-in-China knockoff.
+ 
+
+ For just $99, I bought the Pro Max Plus Kit, which reinforces the 4 main weak points on my door.
+ 
+
+ Once I got one and installed it, and my wife didn't hate how it looked, I bought one for every exterior door.
+ 
+
+ Even after reinforcing all 4 doors, I still paid less than I'll pay for my alarm system this year, and the kits will probably last longer than the house!
+ 
+
+ Needless to say, I don't worry about reacting to a home invasion anymore - I've prevented it.
+ 
+
+ And even if that worst-case scenario comes, I know I'll have the time I need to protect my family, and deal with the threat.
+ 
+
+ If you like the idea of fighting for your life, and really want to test your handgun skills in a true, life-or-death scenario - more power to you.
+ 
+
+ As for me, when my family is in on the line, the best conflicts are the ones I can avoid (or prevent!)
+ 
+
+ That why my home uses Door Armor.",Armor Concepts,,"[{'percentage': '0.227063', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.406023', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.366914', 'age': '35-44', 'gender': 'male'}]","{'lower_bound': '50000', 'upper_bound': '59999'}","{'lower_bound': '400', 'upper_bound': '499'}",2021-09-22,"Gender: Male  
+Explanation: The ad emphasizes tactical training, weapon use, and home protection, which traditionally resonate more with a male audience.",male,male,"Gender: Male
+Explanation: The ad is written from a military-trained individual's perspective, using masculine pronouns like ""I"" and ""my wife"", suggesting a male audience."
+23,590906831941420.0,"This is why I do what I do. I will never forget nor will I ever forgive. 
+ 
+
+ Todd: Hello… Operator…listen to me…I can’t speak very loud. – This is an emergency. I’m a passenger on a United flight to San Francisco.. We have a situation here….Our plane has been hijacked…..can you understand me?
+ 
+
+ Lisa: (exhaling a deep breath to herself) I understand… Can the hijackers see you talking on the phone?
+ 
+
+ Todd: No
+ 
+
+ Lisa: Can you tell me how many hijackers are on the plane?
+ 
+
+ Todd: There are three that we know of.
+ 
+
+ Lisa: Can you see any weapons? What kind of weapons do they have?
+ 
+
+ Todd: Yes…. they don’t have guns….they have knives – they took over the plane with knives.
+ 
+
+ Lisa: Do you mean…like steak knives?
+ 
+
+ Todd: No, these are razor knives…like box cutters.
+ 
+
+ Lisa: Can you tell what country these people are from?
+ 
+
+ Todd: No…..I don’t know. They sound like they’re from the mid-east.
+ 
+
+ Lisa: Have they said what they want?
+ 
+
+ Todd: Someone announced from the cockpit that there was a bomb on board. He said he was the captain and to stay in our seats and stay quiet.
+ He said that they were meeting these men’s demands and returning to the airport… It was very broken English, and… I’m telling you…it sounded fake!
+ 
+
+ Lisa: Ok sir, please give me your name.
+ 
+
+ Todd: My name is Todd Beamer.
+ 
+
+ Lisa: Ok Todd….my name is Lisa…Do you know your flight number? If you can’t remember, it’s on your ticket.
+ 
+
+ Todd: It’s United Flight 93.
+ 
+
+ Lisa: Now Todd, can you try to tell me exactly what happened?
+ 
+
+ Todd: Two of the hijackers were sitting in first class near the cockpit. A third one was sitting near the back of the coach section. The two up. front got into the cockpit somehow; there was shouting. The third hijacker said he had a bomb. It looks like a bomb. He’s got it tied to his waist with a red belt of some kind.
+ 
+
+ Lisa: So is the door to the cockpit open?
+ 
+
+ Todd: No, the hijackers shut it behind them.
+ 
+
+ Lisa: Has anyone been injured?
+ 
+
+ Todd: Yes, ..they…they killed one passenger sitting in first class. There’s been lots of shouting. We don’t know if the pilots are dead or alive. A flight attendant told me that the pilot and copilot had been forced from the cockpit and may have been wounded.
+ 
+
+ Lisa: Where is the 3rd hijacker now Todd?
+ 
+
+ Todd: He’s near the back of the plane. They forced most of the passengers into first class. There are fourteen of us here in the back. Five are flight attendants. He hasn’t noticed that I slipped into this pantry to get the phone. The guy with the bomb ordered us to sit on the floor in the rear of the plane……….oh Jesus.. Help!
+ 
+
+ Lisa: Todd….are you ok? Tell me what’s happening!
+ 
+
+ Todd: Hello…..We’re going down….I think we’re going to crash……Wait – wait a minute. No, we’re leveling off….we’re ok. I think we may be turning around…..That’s it – we changed directions. Do you hear me….we’re flying east again.
+ 
+
+ Lisa: Ok Todd…. What’s going on with the other passengers?
+ 
+
+ Todd: Everyone is… really scared. A few passengers with cell phones have made calls to relatives. A guy, Jeremy, was talking to his wife just before the hijacking started. She told him that hijackers had crashed two planes into the World Trade Center……Lisa is that true??
+ 
+
+ Lisa: Todd…..I have to tell you the truth…..it’s very bad. The World Trade Center is gone. Both of the towers have been destroyed.
+ 
+
+ Todd: Oh God —help us!
+ 
+
+ Lisa: A third plane was taken over by terrorists. It crashed into the Pentagon in Washington DC. Our country is under attack….and I’m afraid that your plane may be part of their plan.
+ 
+
+ Todd: Oh dear God. Dear God…….Lisa, will you do something for me?
+ 
+
+ Lisa: I’ll try….if I can….Yes.
+ 
+
+ Todd: I want you to call my wife and my kids for me and tell them what’s happened. Promise me you’ll call..
+ 
+
+ Lisa: I promise – I’ll call.
+ 
+
+ Todd: Our home number is 201 353-1073…….You have the same name as my wife…Lisa….We’ve been married for 10 years. She’s pregnant with our 3rd child. Tell her that I love her…….(choking up)..I’ll always love her..(clearing throat) We have two boys.. David, he’s 3 and Andrew, he’s 1…..Tell them……(choking) tell them that their daddy loves them and that he is so proud of them. (clearing throat again) Our baby is due January 12th…..I saw an ultra sound…..it was great….we still don’t know if it’s a girl or a boy………Lisa?
+ 
+
+ Lisa: (barely able to speak) I’ll tell them, I promise Todd.
+ 
+
+ Todd: I’m going back to the group—if I can get back I will…
+ 
+
+ Lisa: Todd, leave this line open…are you still there?……
+ 
+
+ Lisa: (dials the phone..) Hello, FBI, my name is Lisa Jefferson, I’m a telephone supervisor for GTE. I need to report a terrorist hijacking of a United Airlines Flight 93….Yes I’ll hold.
+ 
+
+ Goodwin: Hello, this is Agent Goodwin.. I understand you have a hijacking situation?
+ 
+
+ Lisa: Yes sir, I’ve been talking with a passenger, a Todd Beamer, on Flight 93 who managed to get to an air phone unnoticed.
+ 
+
+ Goodwin: Where did this flight originate, and what was its destination?
+ 
+
+ Lisa: The flight left Newark New Jersey at 8 A.M. departing for San Francisco. The hijackers took over the plane shortly after takeoff, and several minutes later the plane changed course – it is now flying east.
+ 
+
+ Goodwin: Ms. Jefferson…I need to talk to someone aboard that plane. Can you get me thru to the planes phone?
+ 
+
+ Lisa: I still have that line open sir, I can patch you through on a conference call…hold a mo…..
+ 
+
+ Todd: Hello Lisa, Lisa are you there?
+ 
+
+ Lisa: Yes, I’m here. Todd, I made a call to the FBI, Agent Goodwin is on the line and will be talking to you as well.
+ 
+
+ Todd: The others all know that this isn’t your normal hijacking. Jeremy called his wife again on his cell phone. She told him more about the World Trade Center and all.
+ 
+
+ Goodwin: Hello Todd. This is Agent Goodwin with the FBI. We have been monitoring your flight. Your plane is on a course for Washington, DC. These terrorists sent two planes into the World Trade Center and one plane into the Pentagon. Our best guess is that they plan to fly your plane into either the White House or the United States Capital Building.
+ 
+
+ Todd: I understand…hold on……I’ll…….I’ll be back..
+ 
+
+ Lisa: Mr. Goodwin, how much time do they have before they get to Washington?
+ 
+
+ Goodwin: Not long ma’am. They changed course over Cleveland; they’re approaching Pittsburgh now. Washington may be twenty minutes away.
+ 
+
+ Todd: (breathing a little heavier) The plane seems to be changing directions just a little. It’s getting pretty rough up here. The plane is flying real erratic….We’re not going to make it out of here. Listen to me….I want you to hear this….I have talked with the others….we have decided we would not be pawns in these hijackers suicidal plot.
+ 
+
+ Lisa: Todd, what are you going to do?
+ 
+
+ Todd: We’ve hatched a plan. Four of us are going to rush the hijacker with the bomb. After we take him out, we’ll break into the cockpit. A stewardess is getting some boiling water to throw on the hijackers at the controls. We’ll get them….and we’ll take them out. Lisa, …..will you do one last thing for me?
+ 
+
+ Lisa: Yes…What is it?
+ 
+
+ Todd: Would you pray with me?
+ 
+
+ They pray: Our father which art in Heaven
+ 
+
+ Hallowed be thy name,
+ 
+
+ Thy kingdom come, thy will be done
+ 
+
+ on earth as it is in heaven.
+ 
+
+ Give us this day our daily bread,
+ 
+
+ And forgive us our trespasses
+ 
+
+ As we forgive our trespassers,
+ 
+
+ And lead us not into temptation
+ 
+
+ But deliver us from evil
+ 
+
+ For thine is the kingdom, and the power, and the glory
+ 
+
+ Forever…..Amen
+ 
+
+ The Lord is my shepherd, I shall not want…
+ 
+
+ He makes me to lie down in green pastures
+ 
+
+ He leads me beside the still waters
+ 
+
+ He restores my soul
+ 
+
+ He leads me in paths of righteousness
+ 
+
+ for His name’s sake
+ 
+
+ Yea, though I walk through the valley of the shadow of death
+ 
+
+ I will fear no evil, for thou art with me…..
+ 
+
+ Todd: (softer) God help me…Jesus help me….(clears throat and louder)
+ 
+
+ Are you guys ready?……..
+ 
+
+ Let’s Roll……………………",Douglas Paul Speer,,"[{'percentage': '0.004918', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.034426', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.091803', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.221311', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.337705', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.309836', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-09-11,"Gender: Male
+Explanation: The ad and script use a male protagonist (Todd Beamer) reflecting heroism and engagement, likely targeting a male audience.",male,male,"Gender: Male
+
+Explanation: The ad mentions Todd Beamer, a male passenger on the hijacked flight, making male the most probable target."
+24,355158426193499.0,Renewable energy is fueling Oklahoma! Like our page to learn more.,Oklahomans For Energy Options,,"[{'percentage': '0.412192', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.174918', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.011854', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.307999', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.093037', 'age': '18-24', 'gender': 'male'}]","{'lower_bound': '20000', 'upper_bound': '24999'}","{'lower_bound': '200', 'upper_bound': '299'}",2021-08-23,"Gender: Male
+Explanation: Renewable energy topics are often targeted at males due to higher engagement and interest in technological and energy sectors.",male,male,"Gender: Male
+Explanation: Renewable energy and fueling Oklahoma imply industrial and technical aspects, traditionally associated with male-dominated fields."
+25,1896456813860638.0,"3 Responses to the Moral and Cultural Revolution | The Mark Harrington Show | 7-22-21
+ 
+
+ What is the goal of the pro-life movement? Is it to save babies? Change minds? Regulate abortion? Or is the goal outlawing abortion? 
+ 
+
+ On today’s episode, Mark will look at the political realities to assess the current state of the battle. He will analyze the three possible responses to the moral and cultural revolution and what it will take to end abortion. 
+ 
+
+ Here are the 3 possible responses: 
+ 
+
+  1. We can be idealistic and naïve. 
+  2. We can be pessimistic and cynical. 
+  3. We can take a sober assessment and plan accordingly.
+ 
+
+ We must be a people with a long-term vision for victory. Like the men of Issachar who “Understood the times and knew what Israel should do.”
+ 
+
+ Our mission cannot by dependent on the ever-changing political winds. We need to raise up the next generation of leaders to take on the culture of death and win because winning is how the killing stops.
+ 
+
+ Please consider sharing the broadcast!
+ 
+
+ The Mark Harrington Show is on Mark’s Facebook, Twitter, and YouTube accounts. Mark’s show is broadcast on America Family Radio’s 180 stations and Salem Radio on Saturday in Ohio. The podcast is available on Apple Podcasts, Podbean, Spotify, and all the popular podcast platforms as well as on Mark’s flagship website: MarkHarringtonShow.com
+ 
+
+ Facebook Personal - https://www.facebook.com/MarkCreatedEqual
+ Facebook Page - https://www.facebook.com/TheMarkHarringtonShow/
+ Youtube Channel - https://www.youtube.com/channel/UC9Vy6WFo8v8lNi1MtV4cbKw
+ Twitter - https://twitter.com/mharringtonlive
+ iTunes – https://podcasts.apple.com/.../activist-radio.../id827982678
+ Google Podcasts -
+ https://podcasts.google.com/.../aHR0cHM6Ly9jcmVhdGVkZXF1Y...
+ Website - https://markharringtonshow.com
+ Podbean - https://createdequal.podbean.com",Mark Harrington,,"[{'percentage': '0.105769', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.322115', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.350962', 'age': '65+', 'gender': 'male'}, {'percentage': '0.221154', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-07-23,"Gender: Male  
+Explanation: The ad emphasizes political strategies and leadership, often targeting males who typically engage more in political discourse.",male,male,"Gender: Male 
+
+Explanation: The ad's tone, language, and topics suggest a more masculine perspective, appealing to men who are passionate about the pro-life movement."
+26,315053693545040.0,"A House Divided: How Sexual Revolutionaries Are Undermining the Pro-Life Movement – Guest: John-Henry Westen | The Mark Harrington Show | 5-20-21
+ 
+
+ Cancel culture is alive and well! 
+ 
+
+ Recently, LifeSiteNews was permanently de-platformed by pro-abortion and LGBT groups (GLAAD and the Human Rights Campaign, and NARAL Pro-Choice America) for “false information about COVID-19 that could contribute to physical harm.” Facebook also said that they de-platform Facebook pages that publish “vaccine discouraging information on the platform.”
+ 
+
+ Big Abortion and Big Tech are colluding to censor pro-lifers, using the well-researched information about coronavirus vaccines as a pretext.
+ 
+
+ The fact is sexual revolutionaries are leading the charge in censoring pro-life speech. In this episode, Mark discusses how pro-life advocates are undermining our efforts to change culture by welcoming our enemies inside the gates.
+ 
+
+ Some of the questions that will be answered are:
+  • How should we respond? 
+  • Should pro-life groups create alliances with pro-LGBT groups and individuals to fight abortion? 
+  • What about Francis Schaeffer’s notion of co-belligerency? 
+  • How far should we go in developing joint efforts to fight abortion? 
+ 
+
+ Please watch, listen, and share!
+ 
+
+ The Mark Harrington Show is on Mark’s Facebook, Twitter, and YouTube accounts. Mark’s show is broadcast on America Family Radio’s 180 stations and Salem Radio on Saturday in Ohio. The podcast is available on Apple Podcasts, Podbean, Spotify, and all the popular podcast platforms as well as on Mark’s flagship website: MarkHarringtonShow.com
+ 
+
+ Facebook Personal - https://www.facebook.com/MarkCreatedEqual
+ Facebook Page - https://www.facebook.com/TheMarkHarringtonShow/
+ Youtube Channel - https://www.youtube.com/channel/UC9Vy6WFo8v8lNi1MtV4cbKw
+ Twitter - https://twitter.com/mharringtonlive
+ iTunes – https://podcasts.apple.com/us/podcast/activist-radio-the-mark-harrington-show/id827982678 
+ Google Podcasts -
+ https://podcasts.google.com/feed/aHR0cHM6Ly9jcmVhdGVkZXF1YWwucG9kYmVhbi5jb20vZmVlZC8
+ Website - https://markharringtonshow.com
+ Podbean - https://createdequal.podbean.com",Mark Harrington,,"[{'percentage': '0.374332', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.106952', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.272727', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.245989', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-05-22,"Gender: Male
+
+Explanation: The content emphasizes conservative pro-life and anti-LGBTQ views, topics typically resonating more with a male conservative audience.",male,male,"Gender: Male
+
+Explanation: The language and tone of the ad suggest a conservative and religious perspective, appealing more to a male audience."
+27,818339535771407.0,"We stand stronger when we stand together. That's why in our Gay Men's 360° Mental Health and Wellness Support program, we're looking to make you feel empowered in your queerness. Build your confidence and celebrate your fellow LGBTQ+ siblings in a space that's safe, protected, and facilitated by a professional.
+ 
+
+ Keep your chin up, stand tall, and WERQ by signing up now!",Reviving Mind,,"[{'percentage': '0.10559', 'age': '65+', 'gender': 'male'}, {'percentage': '0.180124', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.180124', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.136646', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.180124', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.217391', 'age': '55-64', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-05-11,"Gender: Male
+Explanation: The ad specifically mentions ""Gay Men's 360° Mental Health and Wellness Support program,"" indicating it is targeted towards men.",male,male,"Gender: Male
+Explanation: The ad specifically mentions ""Gay Men's 360°"" and uses masculine language, indicating the program is targeted towards men."
+28,835774040356273.0,"NewsCenter Maine aired a story this weekend about progress made on the Clean Energy Corridor so far, featuring one local shop elated about the customers they're getting as a result.",New England Clean Energy Connect,,"[{'percentage': '0.231137', 'age': '65+', 'gender': 'male'}, {'percentage': '0.252652', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.252695', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.263516', 'age': '55-64', 'gender': 'male'}]","{'lower_bound': '50000', 'upper_bound': '59999'}","{'lower_bound': '1000', 'upper_bound': '1499'}",2021-04-27,"Gender: Male
+Explanation: Men may be more interested in business impacts and economic benefits, such as increased customers for local shops, making them the likely target.
+",male,male,"Gender: Male
+Explanation: The topic of clean energy and corridors may appeal more to males who are typically interested in infrastructure and technology."
+29,445395749861609.0,"Did you know that the Clean Energy Corridor will not only lay critical hardware, but will invest $10 million in a fund to help rural Mainers get high-speed internet access?⠀
+ 
+
+ More from the Sun Journal: https://www.centralmaine.com/2021/03/21/controversial-power-line-plan-includes-fiber-optic-line-through-western-maine/",New England Clean Energy Connect,,"[{'percentage': '0.132103', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.186624', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.376015', 'age': '65+', 'gender': 'male'}, {'percentage': '0.305258', 'age': '55-64', 'gender': 'male'}]","{'lower_bound': '15000', 'upper_bound': '19999'}","{'lower_bound': '300', 'upper_bound': '399'}",2021-04-22,"Gender: Male
+Explanation: Men tend to show more interest in infrastructure and technological advancements, making this ad more likely to target them.",male,male,"Gender: Male
+
+Explanation: The topic of clean energy and infrastructure may appeal more to men, who traditionally take interest in technical matters."
+30,198882591800379.0,"From Saturday's Sun Journal: ""these ads that say that Maine forests will never be the same are just not true."" https://www.sunjournal.com/2021/04/10/david-griswold-ads-about-corridors-forest-impact-untrue/",New England Clean Energy Connect,,"[{'percentage': '0.308009', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.243411', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.157203', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.291376', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '125000', 'upper_bound': '149999'}","{'lower_bound': '2000', 'upper_bound': '2499'}",2021-04-15,"Gender: Male  
+Explanation: The ad targets males, as they are typically more skeptical about environmental claims and change resistance concerning outdoor activities.",male,male,"Gender: Male
+Explanation: The language used is assertive and contradictory, suggesting a tone often associated with male communication styles."
+31,544827306561019.0,"The Alabama Public Service Commission is allowing a big monopoly (Alabama Power) to tell you what you can and cannot do on your own property.
+ 
+
+ Federal regulators must act to rectify this illegal power grab by Alabama Power and the Alabama Public Service Commission.
+ 
+
+ Untax the sun!
+ 
+
+ https://www.al.com/news/2021/04/feds-asked-to-strike-down-alabama-power-solar-fee.html",Alabama Center for Sustainable Energy,,"[{'percentage': '0.081579', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.235105', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.316685', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.366631', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '20000', 'upper_bound': '24999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-04-12,"Gender: Male
+Explanation: The ad's focus on property rights and regulation may resonate more with males, often more interested in such issues.",male,male,"Gender: Male
+
+Explanation: The language used is assertive and advocating for individual rights, which traditionally appeals more to male audiences."
+32,134500661970237.0,"Just under 50% of new solar in California is in working and middle class neighborhoods. Net metering is one of the policies that keeps solar affordable, which is exactly why big utilities like PG&E want to stop it. Sign the petition to keep solar strong.",Solar Rights Alliance,,"[{'percentage': '0.009635', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.144529', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.132829', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.156228', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.209911', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.346869', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '4000', 'upper_bound': '4999'}","{'lower_bound': '400', 'upper_bound': '499'}",2021-04-09,"Gender: Male  
+Explanation: Men might be more interested in policy and financial savings related to solar energy, hence more likely to respond to such an ad.",male,male,"Gender: Male
+
+Explanation: The language used, such as ""working and middle-class neighborhoods"" and ""big utilities,"" suggests a male-oriented tone and concern."
+33,3849724028480735.0,"After years of wildfires, blackouts, and rate hikes, utilities are trying to blame solar for all their problems. Tell Governor Newsom to stop the big utility power grab and build more solar on rooftops across California! Sign this petition today!",Solar Rights Alliance,,"[{'percentage': '0.009366', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.118876', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.128242', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.217579', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.144092', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.381844', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '4000', 'upper_bound': '4999'}","{'lower_bound': '500', 'upper_bound': '599'}",2021-04-09,"Gender: Male  
+Explanation: The ad's language around energy issues and policy appeals to male-dominated interests in activism, utilities, and technology solutions.",male,male,"Gender: Male
+
+Explanation: The language used is assertive and action-oriented, appealing more to males who are often driven by problem-solving and activism."
+34,951000385654455.0,"From Saturday's Sun Journal: ""I’ve heard the criticism that these jobs are temporary. Those in the construction business know all jobs are temporary. It’s great that these workers have a steady source of employment for several years."" https://www.sunjournal.com/2021/03/27/matthew-roy-necec-critical-for-economy-infrastructure/",New England Clean Energy Connect,,"[{'percentage': '0.162487', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.192165', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.211307', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.106247', 'age': '65+', 'gender': 'male'}, {'percentage': '0.241579', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.086215', 'age': '18-24', 'gender': 'male'}]","{'lower_bound': '15000', 'upper_bound': '19999'}","{'lower_bound': '400', 'upper_bound': '499'}",2021-03-31,"Gender: Male  
+Explanation: Construction jobs are typically male-dominated; hence, the ad targets males by addressing employment concerns in the construction industry.",male,male,"Gender: Male
+Explanation: Construction industry jobs are traditionally male-dominated, making it more likely the ad targets male workers."
+35,204023848166263.0,We support harnessing the power of wind and sun in Iowa to provide economic opportunities for our rural communities and to provide clean energy to the nation.,270 Strategies,,"[{'percentage': '0.039855', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.177536', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.210145', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.228261', 'age': '65+', 'gender': 'male'}, {'percentage': '0.188406', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.155797', 'age': '25-34', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-03-09,"Gender: Male  
+Explanation: Males may be more engaged with economic opportunities in rural areas, focusing on job creation and infrastructure developments.",male,male,"Gender: Male
+Explanation: Rural communities and economic opportunities may resonate more with traditional male interests and values, such as agriculture and commerce."
+36,277460500479222.0,Renewable energy fuels Iowa's future!,270 Strategies,,"[{'percentage': '0.009662', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.193237', 'age': '65+', 'gender': 'male'}, {'percentage': '0.178744', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.202899', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.217391', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.198068', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-03-06,"Gender: Male  
+Explanation: Males may be more interested in technical aspects and innovations, making them likely targets for renewable energy advertisements.",male,male,"Gender: Male
+Explanation: Men are more likely to be interested in renewable energy and technology, and the ad's tone is assertive and futuristic."
+37,177660721202815.0,"President Biden plans to ensure that we produce nearly half of our electricity from the sun by 2050—and California has a responsibility to lead the way. Rooftop solar is supported by a true grassroots coalition: From climate change advocates, community organizers, open space & wildlife activists, to champions of affordable housing, consumer protection leaders, and public health leaders.
+ 
+
+ Support for solar is as diverse as California, but one thing unites us together:
+ 
+
+ The sun belongs to everyone, not the utilities.",Solar Rights Alliance,,"[{'percentage': '0.07993', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.17854', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.15682', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.344917', 'age': '65+', 'gender': 'male'}, {'percentage': '0.234144', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.005647', 'age': '18-24', 'gender': 'male'}]","{'lower_bound': '3000', 'upper_bound': '3999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-10-22,"Gender: Female
+Explanation: The ad emphasizes community, health, and environmental activism—topics that traditionally resonate more with women.
+
+
+",male,female,"Gender: Female
+Explanation: Emphasis on community organizers, affordable housing, and public health leaders suggests a more nurturing and caregiving approach, often associated with female values."
+38,931119667758304.0,"You don’t have to live this way. If you’re tired of politicians and big business telling us that we need nuclear weapons and climate change is a hoax, welcome to the club. 
+ 
+
+ Every week, we publish a new story that explains how smart policy can sustain a safe and livable planet. 
+ 
+
+ Learn more: https://outrider.org/",OUTRIDER FOUNDATION INC,,"[{'percentage': '0.23231', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.154873', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.200267', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.41255', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-09-28,"Gender: Male
+Explanation: Men are often more vocal about distrust in politics and big business, aligning with anti-nuclear weapons and climate change concerns.",male,male,"Gender: Female
+
+Explanation: The ad's focus on a ""livable planet"" and anti-establishment tone may appeal more to females, who tend to prioritize environmental and social issues."
+39,1055078871989913.0,"You don’t have to live this way. 
+ 
+
+ If you’re tired of politicians and big business telling us that we need nuclear weapons and climate change is a hoax, welcome to the club. 
+ 
+
+ Every week, we publish a new story that explains how smart policy can sustain a safe and livable planet.",OUTRIDER FOUNDATION INC,,"[{'percentage': '0.439344', 'age': '65+', 'gender': 'male'}, {'percentage': '0.298361', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.169399', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.092896', 'age': '35-44', 'gender': 'male'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-09-28,"Gender: Male
+Explanation: The ad's rebellious tone and distrust of authority likely resonate more with males, who often exhibit stronger anti-establishment sentiments.",male,male,"Gender: Female
+Explanation: The language and tone used in the ad, focusing on sustainability and safety, tends to resonate more with females."
+40,374056404251900.0,"Join the Unite Philly Run, a fun fitness run to fight climate change Sat 18th for 3.5 miles + 4 Strength Stations, sponsored by Rothman Orthopaedics. https://www.unitefitness.com/unite-philly-run/",UNITE RITTENHOUSE LLC,,"[{'percentage': '0.224568', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.693858', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.081574', 'age': '18-24', 'gender': 'male'}]","{'lower_bound': '10000', 'upper_bound': '14999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-09-03,"Gender: Male
+Explanation: The inclusion of strength stations suggests an emphasis on physical strength, likely appealing more to male participants.
+",male,male,"Gender: Female
+
+Explanation: Women are more likely to participate in fitness events that focus on wellness and community, such as runs and strength training."
+41,4759886084095516.0,"Calling all Philly fitness enthusiasts and environmentalists! Join the Unite Philly Run, a fun urban fitness run to fight climate change on Sat Sept 18th sponsored by Rothman Orthopaedics. https://www.unitefitness.com/unite-philly-run/",UNITE RITTENHOUSE LLC,,"[{'percentage': '0.055672', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.283613', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.660714', 'age': '25-34', 'gender': 'male'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-09-03,"Gender: Female
+Explanation: The ad appeals to environmentalists and fitness enthusiasts, groups with strong female participation.
+",male,female,"Gender: Female
+
+Explanation: The ad's emphasis on ""unite"" and ""philly fitness enthusiasts"" suggests a more communal and social tone, appealing to females."
+42,870845807140709.0,"All but one of the past 18 years have been the hottest on record. Join us for 5k fun fitness run, Unite Philly Run, on Saturday Sept 18th as we UNITE against climate change. https://www.unitefitness.com/unite-philly-run/",UNITE RITTENHOUSE LLC,,"[{'percentage': '0.671669', 'age': '25-34', 'gender': 'male'}, {'percentage': '0.245023', 'age': '35-44', 'gender': 'male'}, {'percentage': '0.083308', 'age': '18-24', 'gender': 'male'}]","{'lower_bound': '9000', 'upper_bound': '9999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-09-03,"Gender: Female
+Explanation: The ad emphasizes climate activism and a fun run, areas that often see strong female participation.
+",male,female,"Gender: Female
+
+Explanation: The emphasis on ""fun fitness run"" and ""UNITE"" conveys a sense of community and inclusivity, appealing more to females."
+43,562926238384066.0,"Climate change cannot be solved without collaboration. Last year, we became America’s first certified carbon neutral beer. Today, we released the plans on how we did it.
+ 
+
+ The toolkit is downloadable at DrinkSustainably.com. Visit the site to learn more and take action, and encourage your (other) favorite breweries to take a look.
+ 
+
+ #drinksustainably","NEW BELGIUM BREWING COMPANY, INC.",,"[{'percentage': '0.258474', 'age': '18-24', 'gender': 'male'}, {'percentage': '0.741526', 'age': '25-34', 'gender': 'male'}]","{'lower_bound': '350000', 'upper_bound': '399999'}","{'lower_bound': '1000', 'upper_bound': '1499'}",2021-08-26,"Gender: Male  
+Explanation: Beer ads traditionally target males due to historical and cultural associations with men being primary beer consumers.",male,male,"Gender: Male
+Explanation: Beer is often associated with male audiences, and sustainability appeals may resonate more with environmentally conscious male consumers."
+44,2855108181372576.0,"Our goal is to plant 10 million trees across Pennsylvania by 2025. Are you up for the challenge? Sign up today to learn more about how you can play your part in this effort and leave a lasting legacy on your property. Trees not only improve the health of your lands and waters, they also increase the value of your property.","CHESAPEAKE BAY FOUNDATION, INC., THE",,"[{'percentage': '0.351177', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.407365', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.241458', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '3000', 'upper_bound': '3999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-05-27,"Gender: Male
+Explanation: The ad's focus on challenges and property value aligns more with traditional male interests like investment and personal legacy.",male,male,"Gender: Male
+
+Explanation: The tone and language used are more likely to appeal to outdoor enthusiasts and landowners, traditionally associated with men."
+45,2917398338508632.0,"When we plant one new tree, we are benefiting the health and quality of our land for generations to come. Trees can improve soil health and the quality of fish and wildlife in our local rivers and streams. Sign up today to learn more about adding free trees to your property with the Keystone Ten Million Trees Partnership.","CHESAPEAKE BAY FOUNDATION, INC., THE",,"[{'percentage': '0.364299', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.273224', 'age': '65+', 'gender': 'male'}, {'percentage': '0.362477', 'age': '45-54', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-05-27,"Gender: Male
+Explanation: Emphasis on land, property, and wildlife improvement appeals more to men interested in outdoors and land management.
+",male,male,"Gender: Female
+Explanation: The ad's focus on environmentalism and family legacy (future generations) may resonate more with females' nurturing instincts."
+46,1153184155149879.0,"When you plant trees on your land, you’re not only improving the property’s value but also retaining and stabilizing healthy soil and preventing erosion. Sign up today to learn more about adding free trees to your property and how the Keystone Ten Million Trees Partnership can help!","CHESAPEAKE BAY FOUNDATION, INC., THE",,"[{'percentage': '0.30742', 'age': '45-54', 'gender': 'male'}, {'percentage': '0.431095', 'age': '55-64', 'gender': 'male'}, {'percentage': '0.261484', 'age': '65+', 'gender': 'male'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-05-27,"Gender: Male
+Explanation: Men are often more interested in land improvement and property value enhancement, making them the more probable target.",male,male,"Gender: Male
+Explanation: The ad appeals to property owners, likely landholders or farmers, traditionally male-dominated professions, making males the target audience."
+47,629683251691643.0,"When Joe Manchin says he’ll vote ""no"" on the Build Back Better Act, he’s saying ""no"" to universal pre-K, paid leave, affordable child care, fighting climate change, Medicare expansion, affordable housing, lower prescription drug costs, home care, and immigration reform. He’s saying ""no"" to what people across America want, need, and deserve.
+ 
+
+ Build Back Better is the Democratic agenda. It’s President Biden’s agenda. It’s what we promised people throughout this country when voters delivered Democrats the House, Senate, and White House. Joe Manchin and the Senate can’t turn their backs on these urgent issues. It’s bad policy and it’s bad politics.
+ 
+
+ We’re NOT backing down for a second. We’re going to keep pushing for Build Back Better and the popular policies in this bill. Can you help Pramila redouble her efforts to fight for the people with a donation of $10 today?",PRAMILA FOR CONGRESS,,"[{'percentage': '0.010054', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.774169', 'age': '65+', 'gender': 'female'}, {'percentage': '0.177881', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.023202', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.012374', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.00232', 'age': '18-24', 'gender': 'female'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-19,"Gender: Female
+Explanation: Women are more likely concerned with issues like paid leave, affordable child care, and home care, making them prime targets.",female,female,"Gender: Male
+Explanation: The ad targets Joe Manchin, a male senator, and uses language implying criticism, making it more likely to attract male critics."
+48,283831140395785.0,"Until our freedom to vote is secured, we won't see progress on the issues that matter most to us — abortion access, gun violence prevention, economic equality, racial justice, climate change.
+ We need Congress to #DeliverForVotingRights and make progress possible. https://moms.ly/33AYYoO",MomsRising Together,,"[{'percentage': '0.432897', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.164971', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.028585', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.127422', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.246124', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '4000', 'upper_bound': '4999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-15,"Gender: Female  
+Explanation: The ad mentions abortion access, traditionally a key concern for women, indicating it likely targets a female audience.",female,female,"Gender: Female
+
+Explanation: The ad mentions abortion access, a issue closely associated with women's rights, suggesting a female target audience."
+49,344708274137511.0,"𝗣𝗲𝗻𝗴𝘂𝗶𝗻𝘀 𝗮𝗿𝗲 𝗹𝗼𝘃𝗮𝗯𝗹𝗲 𝗰𝗿𝗲𝗮𝘁𝘂𝗿𝗲𝘀 𝗮𝗻𝗱 𝗻𝗼 𝗼𝗻𝗲 𝗹𝗼𝘃𝗲𝘀 𝘁𝗵𝗲𝗺 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝗼𝘂𝗿 𝗰𝗵𝗶𝗹𝗱𝗿𝗲𝗻. 
+ 
+
+ At the bottom of the world, Adele, Chinstraps, and Gentoo penguins have seen massive changes in their population numbers. Climate change has caused the food source of some species to decrease. The Adele and Chinstrap populations are down by more than 50% to 75%! 🐧😢
+ 
+
+ Only one publicly-supported nonprofit in the world conducts Antarctic research by monitoring the entire Antarctic Peninsula region – Oceanites – and we have been doing this for more than two decades. Join us as we stand with the penguins.
+ 
+
+ We help educate children worldwide using Penguins as avatars to explain the impact of climate change as well as the science of climate adaptation. Help us stand for the future of Antarctica and our planet.
+ 
+
+ Help us to save Antarctic penguins and educate our next generation of children by downloading (and sharing with friends and family) our free eBook series on Antarctic penguins. 
+ 
+
+ #standwithpenguins
+ 
+
+ https://oceanites.org/ron-counts-penguins/",OCEANITES INC,,"[{'percentage': '0.266673', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.198646', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.184726', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.131895', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.21806', 'age': '65+', 'gender': 'female'}]","{'lower_bound': '125000', 'upper_bound': '149999'}","{'lower_bound': '400', 'upper_bound': '499'}",2022-01-11,"Gender: Female  
+Explanation: The ad's emotional appeal towards children and conservation may resonate more strongly with females, who often show higher empathy rates.",female,female,"Gender: Female
+
+Explanation: The ad's emotional tone, focus on education and children, and use of a heart symbol () appeal more to female sensibilities."
+50,1009495416577268.0,I'm frustrated no one is taking action to reverse climate change. I will help solve the problem.,412 Technology,,"[{'percentage': '0.001627', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.25712', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.659886', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.081367', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '2000', 'upper_bound': '2999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-10,"Gender: Female
+Explanation: Women are often more proactive and vocal about environmental issues, making them the likely target for a call to action on climate change.
+",female,female,"Gender: Male
+Explanation: The language used is assertive and action-oriented, which is often associated with traditional masculine traits."
+51,342888470743452.0,"More than 10,000 Minnesotans are having a real impact on climate change. Are you in?",MN350 & MN350 Action,,"[{'percentage': '0.436238', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.563762', 'age': '65+', 'gender': 'female'}]","{'lower_bound': '2000', 'upper_bound': '2999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-09,"Gender: Female  
+Explanation: Women are often more involved in community and environmental initiatives, making the climate change call-to-action more compelling for them.",female,female,"Gender: Female
+Explanation: The ad's tone and focus on community impact may appeal more to females, who tend to prioritize social and environmental issues."
+52,949600075649533.0,"Did you know that getting renewable energy could be as simple as a phone call? If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.169953', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.141337', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.360635', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.168486', 'age': '65+', 'gender': 'female'}, {'percentage': '0.074567', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.084931', 'age': '55-64', 'gender': 'female'}, {'percentage': '9.2E-5', 'age': '13-17', 'gender': 'female'}]","{'lower_bound': '10000', 'upper_bound': '14999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-06,"Gender: Female
+Explanation: The ad talks about protecting kids' future, appealing to maternal instincts and actions typically associated with mothers.",female,female,"Gender: Female
+Explanation: The ad mentions ""every parent"" and ""kids' future"", which is often more relatable and appealing to females, a traditional caregiving role."
+53,988784508414123.0,"Clean energy (like solar) can help prevent the effects of climate change. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.086141', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.119311', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.061022', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.199394', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.177674', 'age': '65+', 'gender': 'female'}, {'percentage': '0.356309', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.000148', 'age': '13-17', 'gender': 'female'}]","{'lower_bound': '10000', 'upper_bound': '14999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-06,"Gender: Female  
+Explanation: The ad appeals to parental instincts and emotional concerns for children's future, more commonly targeted towards women.",female,female,"Gender: Female
+Explanation: The ad mentions ""every parent"" and ""protect your kids' future"", appealing to maternal instincts and caregiving roles often associated with females."
+54,961239478136331.0,"Finally, a voice of reason from the DEP, ""Fossil fuel-fired electric generation in the state will continue to be needed until clean-energy sources come online and clean-energy technology advances to meet anticipated energy demand,"" You listening New Jersey Board of Public Utilities? 
+ http://ow.ly/o2Z550HhOxA",Affordable Energy for New Jersey,,"[{'percentage': '0.003704', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.177778', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.355556', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.377778', 'age': '65+', 'gender': 'female'}, {'percentage': '0.085185', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-06,"Gender: Male
+Explanation: The ad focuses on energy policy and fossil fuels, traditionally issues more commonly associated with male audiences and policymakers.",female,male,"Gender: Male
+
+Explanation: Technical language and mention of energy generation and technology suggest a male audience familiar with industry jargon."
+55,758162855143676.0,"Inefficient home heating and cooling is polluting our planet. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.074887', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.333381', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.161099', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.169026', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.173131', 'age': '65+', 'gender': 'female'}, {'percentage': '0.088477', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '7000', 'upper_bound': '7999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female
+Explanation: The ad appeals to protecting children’s future, often resonating more with mothers due to their traditional caretaking roles.",female,female,"Gender: Female
+Explanation: The ad mentions ""every parent"" and ""your kids' future"", which may resonate more with female parents who are often more concerned with family welfare."
+56,775801203822699.0,"There’s a good chance your bank is funding oil extraction that’s polluting our planet. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.056268', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.16652', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.397857', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.049886', 'age': '65+', 'gender': 'female'}, {'percentage': '0.237719', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.09175', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '15000', 'upper_bound': '19999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female  
+Explanation: The ad mentions protecting kids' future, often resonating more with mothers focused on family and environmental impact.",female,female,"Gender: Female
+Explanation: The ad mentions ""every parent"" and ""your kids' future"", which may resonate more with female caregivers and mothers."
+57,452548599786680.0,"Cars are one of the largest sources of carbon pollution in the U.S. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.273507', 'age': '65+', 'gender': 'female'}, {'percentage': '0.300948', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.109766', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.14891', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.062147', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.104722', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '10000', 'upper_bound': '14999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female
+Explanation: The ad appeals to parental responsibility and future protection, which traditionally targets mothers more effectively.",female,female,"Gender: Female
+Explanation: The ad mentions ""every parent"" and ""your kids' future"", implying a nurturing and caregiving tone, which is often associated with females."
+58,4833913069996261.0,"Red meat consumption contributes almost as much carbon pollution as the airline industry. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.209836', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.144912', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.027311', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.197492', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.158227', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.262222', 'age': '65+', 'gender': 'female'}]","{'lower_bound': '10000', 'upper_bound': '14999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female
+Explanation: The ad appeals to parental concern for children's future, often resonating more with women who traditionally manage family health.",female,female,"Gender: Female
+
+Explanation: The ad uses the phrase ""help protect your kids' future,"" implying a maternal instinct, making it more likely to target females."
+59,4880591658667724.0,"There’s a good chance your credit card provider is funding oil extraction that’s polluting our planet. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.000241', 'age': '13-17', 'gender': 'female'}, {'percentage': '0.033542', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.094233', 'age': '65+', 'gender': 'female'}, {'percentage': '0.031733', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.223818', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.480454', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.13598', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '9000', 'upper_bound': '9999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female  
+Explanation: The ad appeals to parental instincts and environmental concerns, which are often more effective with a female audience.",female,female,"Gender: Female
+Explanation: The ad mentions ""your kids' future,"" implying a maternal tone and concern, making it more likely to resonate with females."
+60,595942248180046.0,"Top Five Astro-Events for January
+ 
+
+ 1. Mercury turns retrograde in Aquarius on the 14th while squaring Uranus. Challenging Mercury-Uranus aspects can bring plenty of anxiety, nervousness, and uncertainty due to developments happening beyond one’s control. That makes the three days around this Mercury station a good time to be extra cautious in your dealing with others, on the road, and wherever slip-ups could happen. Stay focused on what you’re doing to avoid accidents. For some, this station may involve the need for immediate attention to finances, like paying essential bills, or scaling back extravagant expenditures. For many, Mercury’s station will likely bring an unexpected change of plans. 
+ 
+
+ 2. The Full Moon in Cancer takes place on the 17th (6:48 pm EST). This lunation promises to be a powerful, disruptive phase since the Sun in Capricorn conjoins Pluto as Mercury turns retrograde. Expect business alliances, market forecasts, and legal arrangements to shift, even dramatically reverse course. Financial plans within marriages or other committed relationships may need re-working. This Full Moon also aligns with the US Pluto: look for the political scene in Washington to bring extra intense discussions, breakthroughs, and breakdowns, likely concerning a scaled-down version of Biden’s social spending and climate package. Those with planets at 26º-27º of the cardinal signs will likely be going through life-changing developments. 
+ 
+
+ 3. Ceres conjoins the North Node in Taurus on the 24th and is an important influence for the entire month. Since the perpetually retrograde motion of the North Node recently led to its exit from Gemini, this conjunction with Ceres anchors the North Node’s passage in Taurus for the next 18 months, creating a new interest in long-term stability. Ceres here fosters traditional family values, financial security, and whatever needs to be done for one generation to take care of its older or younger generation. In its more universal caretaking function, Ceres in Taurus awakens renewed interest in dealing with global warming. Expect some extreme weather events this month to spark concerns.
+ 
+
+ 4. Neptune squares Black Moon Lilith on the 25th but this mystical combination is in effect from the 14th into the first week of February. Both these archetypes are more concerned about what lies in the invisible realms than our material universe, so their blending creates a synergistic, almost tangible feeling about what’s happening behind the scenes. On the negative side, Lilith square Neptune can foment deception, conspiracy theories, mental illness, and endless fear of the unknown. On the positive side, these two enhance empathy, artistic creativity, and a questing drive for spiritual understanding. Listen to your dreams, explore the deeper dimensions of astrology. 
+ 
+
+ 5. Venus turns direct on the 29th while trine Uranus, an unusually pleasant and practical turning point that can bring some light into your world. After 40 days of retrograding through Capricorn, Venus has likely pushed you to question your personal relationships in some fundamental way. At the very least, you may have withdrawn to turn inward. Now, as Venus turns direct, is a good time to make decisions and begin moving forward with your new attitude of acceptance and common goals. The last three days of January are exceptionally favorable for creating practical business plans and financial arrangements. You may have to make some adjustments since Mercury is still retrograde. 
+ 
+
+ Come visit! There’s more engaging astrology at NeptuneCafe: https://www.neptunecafe.com/",NeptuneCafe,,"[{'percentage': '0.277739', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.18609', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.261921', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.267504', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.006746', 'age': '18-24', 'gender': 'female'}]","{'lower_bound': '6000', 'upper_bound': '6999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-26,"Gender: Female
+Explanation: The ad frequently references relational, familial, emotional, and empathetic themes, which often resonate more with female audiences.",female,female,"Gender: Female
+
+Explanation: The ad's focus on emotional, empathetic, and nurturing themes (e.g., Ceres, North Node, Cancer Full Moon) resonates more with traditional feminine energy."
+61,628984961577513.0,"Home electricity is a major source of carbon pollution. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '2.6E-5', 'age': '13-17', 'gender': 'female'}, {'percentage': '0.168753', 'age': '65+', 'gender': 'female'}, {'percentage': '0.076166', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.05706', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.164452', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.134779', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.398765', 'age': '25-34', 'gender': 'female'}]","{'lower_bound': '150000', 'upper_bound': '174999'}","{'lower_bound': '4500', 'upper_bound': '4999'}",2021-12-21,"Gender: Female  
+Explanation: The ad explicitly mentions ""every parent,"" often resonating more with mothers identified as primary caregivers concerned about children’s future.",female,female,"Gender: Female
+Explanation: The ad mentions ""every parent"" and ""your kids' future"", implying a nurturing tone, which is often associated with females."
+62,2370612289748731.0,"To truly protect our planet, we need our leaders to make clean energy a priority. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.49098', 'age': '65+', 'gender': 'female'}, {'percentage': '0.165929', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.079135', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.068414', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.084752', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.110619', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.00017', 'age': '13-17', 'gender': 'female'}]","{'lower_bound': '7000', 'upper_bound': '7999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female
+Explanation: The ad appeals emotionally to parents about protecting kids' futures, which often resonates more with mothers making advocacy decisions.",female,female,"Gender: Female
+Explanation: The ad appeals to parental instincts, using phrases like ""your kids' future,"" which tends to resonate more with female caregivers."
+63,613358309989751.0,"About 40% of food grown is wasted — and the carbon it produces is polluting our planet. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.159652', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.172034', 'age': '65+', 'gender': 'female'}, {'percentage': '0.056081', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.168133', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.202582', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.241516', 'age': '25-34', 'gender': 'female'}, {'percentage': '2.0E-6', 'age': '13-17', 'gender': 'female'}]","{'lower_bound': '700000', 'upper_bound': '799999'}","{'lower_bound': '4500', 'upper_bound': '4999'}",2021-12-21,"Gender: Female  
+Explanation: The ad's focus on parental responsibilities and protecting children's future typically resonates more with female demographics, especially mothers.",female,female,"Gender: Female
+Explanation: The ad mentions ""every parent"" and ""your kids' future,"" which may resonate more with mothers, who are often primary caregivers."
+64,438324534548629.0,"U.S. school facilities emit about 72 MILLION metric tons of carbon pollution every year. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.142507', 'age': '65+', 'gender': 'female'}, {'percentage': '0.198119', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.394602', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.169393', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.052954', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.04222', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.000204', 'age': '13-17', 'gender': 'female'}]","{'lower_bound': '10000', 'upper_bound': '14999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female  
+Explanation: Mothers are typically more actively involved in children's school-related activities and concerns, making them a primary target audience.",female,female,"Gender: Female
+Explanation: The ad appeals to parents' concern for their children's future, traditionally a more maternal concern, targeting females."
+65,636226474075696.0,"Climate change is happening, and the best form of action is to talk about it. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '3.0E-5', 'age': '13-17', 'gender': 'female'}, {'percentage': '0.05796', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.084683', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.141059', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.431174', 'age': '65+', 'gender': 'female'}, {'percentage': '0.186091', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.099002', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '100000', 'upper_bound': '124999'}","{'lower_bound': '4500', 'upper_bound': '4999'}",2021-12-21,"Gender: Female
+Explanation: Women are often more engaged in parental and community issues, making climate change conversations about their children highly relevant.",female,female,"Gender: Female
+Explanation: The ad focuses on ""parent"" and ""kids' future,"" suggesting a maternal tone, commonly associated with female caregivers."
+66,620588332703758.0,"A flight from NY to LA creates over 1,500 lbs of carbon pollution per passenger. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.065478', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.167286', 'age': '65+', 'gender': 'female'}, {'percentage': '0.223386', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.335586', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.117945', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.090233', 'age': '55-64', 'gender': 'female'}, {'percentage': '8.4E-5', 'age': '13-17', 'gender': 'female'}]","{'lower_bound': '10000', 'upper_bound': '14999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female  
+Explanation: The ad appeals to parental instincts and environmental protection, which research suggests are more resonant with female audiences.",female,female,"Gender: Female 
+Explanation: The ad mentions ""your kids' future"", implying a maternal concern, and typically, mothers are more involved in childcare."
+67,605158537456332.0,"Did you know there's an easy way to offset your carbon footprint? If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '0.176621', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.373151', 'age': '65+', 'gender': 'female'}, {'percentage': '0.106849', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.090411', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.163653', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.089315', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '6000', 'upper_bound': '6999'}","{'lower_bound': '300', 'upper_bound': '399'}",2022-01-05,"Gender: Female  
+Explanation: The ad mentions ""every parent,"" often evoking strong protective instincts commonly associated with mothers regarding their children's future.",female,female,"Gender: Female
+Explanation: The ad's language and focus on ""kids' future"" suggests a maternal tone, making it more appealing to female parents."
+68,1121004575341403.0,"16% of all U.S. carbon pollution comes from commercial buildings. If every parent made this pledge 👇, we could help protect your kids' future.",Potential Energy Coalition Inc,,"[{'percentage': '5.5E-5', 'age': '13-17', 'gender': 'female'}, {'percentage': '0.067222', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.412975', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.099868', 'age': '65+', 'gender': 'female'}, {'percentage': '0.062299', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.202975', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.154606', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '200000', 'upper_bound': '249999'}","{'lower_bound': '4500', 'upper_bound': '4999'}",2021-12-21,"Gender: Female
+Explanation: The ad highlights parental responsibility and emotional appeal, often more effective when targeting female audiences concerned with children's future.",female,female,"Gender: Female
+
+Explanation: The ad mentions ""every parent"" and ""your kids' future"", which tends to resonate more with female caregivers, traditionally associated with childcare."
+69,2413247995478067.0,"How do I talk to climate deniers about climate change?
+ 
+
+ In the words of Dr Katharine Hayhoe, you don't!
+ With an overwhelming amount of people interested in taking action to protect the planet, communicating with them and providing them with tools will create dramatic change!",Mothers Out Front,,"[{'percentage': '7.5E-5', 'age': '13-17', 'gender': 'female'}, {'percentage': '0.001698', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.327132', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.61717', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.044792', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.006302', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.00283', 'age': '65+', 'gender': 'female'}]","{'lower_bound': '45000', 'upper_bound': '49999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-12-21,"Gender: Female  
+Explanation: The ad emphasizes collective action and empathy, which research shows tends to resonate more with female audiences in environmental contexts.",female,female,"Gender: Female
+Explanation: The ad quotes Dr. Katharine Hayhoe, a female climate scientist, and uses a collaborative tone, suggesting a female audience."
+70,595356535094933.0,"Pramila is leading the charge for progressive change. As the Chair of the Congressional Progressive Caucus, she is shaping legislation to be bigger and bolder. From fighting to include paid family leave, lower prescription drug prices, and historic climate action in the Build Back Better Act to fearlessly advocating for abortion rights and voting rights, it is essential that we keep Pramila’s progressive leadership in the House. 
+ 
+
+ Pramila doesn’t accept a single dime from corporate PACs and relies on small-dollar donations to fund her year-round organizing efforts. Can you chip in $15 today to keep Pramila’s critical voice in Congress?",PRAMILA FOR CONGRESS,,"[{'percentage': '0.123711', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.030928', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.274914', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.323024', 'age': '65+', 'gender': 'female'}, {'percentage': '0.103093', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.14433', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-14,"Gender: Female
+Explanation: The ad highlights key issues like paid family leave and abortion rights, which statistically resonate more with female voters.",female,female,"Gender: Female
+
+Explanation: The ad focuses on progressive causes like abortion rights, suggesting a female audience is more likely to be targeted."
+71,212044201103249.0,"I was frustrated no one was tackling climate change. Now I""m drawing down a ton of carbon from the air each month.",412 Technology,,"[{'percentage': '0.666667', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.192884', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.132959', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.007491', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-14,"Gender: Female
+Explanation: Women are often more proactive and vocal about environmental issues, making them the likely target for personal climate action messages.
+
+
+",female,female,"Gender: Male
+Explanation: The language used is assertive and action-oriented, which is often associated with traditional masculine traits."
+72,430401805245610.0,"Five innovative female scientists will receive grants of $5,000 each to continue their work related to climate change and the water crisis.",The Story Exchange Foundation,,"[{'percentage': '0.12178', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.265027', 'age': '65+', 'gender': 'female'}, {'percentage': '0.203357', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.181889', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.20726', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.020687', 'age': '18-24', 'gender': 'female'}]","{'lower_bound': '4000', 'upper_bound': '4999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-14,"Gender: Female  
+Explanation: The ad specifies that ""female scientists"" will receive the grants, clearly targeting and benefiting women pursuing climate change work.",female,female,"Gender: Female
+Explanation: The grant specifically targets ""five innovative female scientists"", explicitly excluding male candidates."
+73,706033417035592.0,"Together, you and our global alliance are helping to heal our climate – one seed, one tree, one woman – at a time.  
+ 
+
+ Meet Esther Maurice, a leader in our Kenya Grassroots Accelerator, who has launched a native tree growing campaign in her community.
+ 
+
+ In just one year Esther's group has made an incredible impact, taking action to reverse climate change and ensure their families' climate resilience.
+ 
+
+ This is just ONE example of the impact ONE woman can have in her community and the world. Will you help us reach more women?
+ 
+
+ Click the link below to support women leaders like Esther today.
+ https://womensearthalliance.org/shechangestheworld/",Earth Island Institute,,"[{'percentage': '0.150538', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.311828', 'age': '65+', 'gender': 'female'}, {'percentage': '0.184946', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.04086', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.184946', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.126882', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-11,"Gender: Female  
+Explanation: The ad appeals to supporting women leaders and emphasizes empowering women, making it more likely to resonate with female audiences.",female,female,"Gender: Female 
+
+Explanation: The ad features a female leader, Esther, and emphasizes ""one woman"" making an impact, suggesting a female audience is targeted."
+74,326939522603212.0,Take action in the fight against climate change. Donate a tree to the world today.,DONATE A TREE TO THE WORLD,,"[{'percentage': '0.11465', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.407643', 'age': '65+', 'gender': 'female'}, {'percentage': '0.095541', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.171975', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.210191', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-07,"Gender: Female  
+Explanation: Women are often perceived as more environmentally conscious and are more engaged in sustainable initiatives, making them the primary target.",female,female,"Gender: Female
+
+Explanation: Emphasis on nurturing and care for the environment resonates more with feminine values and stereotypical characteristics."
+75,932382681024562.0,Clean energy (like solar) can help prevent the effects of climate change. Learn what you can do to protect your kids' future.,Potential Energy Coalition Inc,,"[{'percentage': '0.027016', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.386571', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.131903', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.40882', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.027811', 'age': '65+', 'gender': 'female'}, {'percentage': '0.017878', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '2000', 'upper_bound': '2999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-06,"Gender: Female
+Explanation: Women often show greater concern for environmental issues and children's future, making them more likely to respond to this ad.",female,female,"Gender: Female
+Explanation: The ad's focus on ""kids' future"" and emotional appeal may resonate more with females, who often prioritize family and nurturing."
+76,584906895936811.0,"This year WILD helped make history with the first formal, global recognition of the need to protect Half of Earth’s lands and seas. But we couldn’t do it without the courageous choices of others who are committed to saving life on Earth. You can join us in the historic effort to keep Earth wild! 
+ 
+
+ Discover more here.
+ https://wild.org/choose-earths-future/","INTERNATIONAL WILDERNESS LEADERSHIP (WILD) FOUNDATION, INC. THE",,"[{'percentage': '0.172697', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.235197', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.194079', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.039474', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.189145', 'age': '65+', 'gender': 'female'}, {'percentage': '0.169408', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-06,"Gender: Female  
+Explanation: Women are often more engaged with environmental causes and conservation efforts, making them a more probable target audience.",female,female,"Gender: Female
+Explanation: The ad's tone and language, emphasizing ""courageous choices"" and ""saving life on Earth,"" may appeal more to women's nurturing nature."
+77,437754054411114.0,"𝐖𝐡𝐚𝐭 𝐰𝐢𝐥𝐥 𝟐𝟎𝟐𝟐 𝐛𝐫𝐢𝐧𝐠?
+ 
+
+ Will the pandemic end? Is there hope for humanity? Will democracy be saved? Will climate change finally be taken seriously?
+ 
+
+ Join us and learn what is in store for us in 2022 and beyond, and what you can do to help create a more caring and sustainable future for all beings.
+ 
+
+ 𝐓𝐡𝐢𝐬 𝐬𝐞𝐫𝐢𝐞𝐬 𝐨𝐟 𝐯𝐢𝐝𝐞𝐨𝐬 𝐭𝐡𝐫𝐨𝐮𝐠𝐡𝐨𝐮𝐭 𝐃𝐞𝐜𝐞𝐦𝐛𝐞𝐫 will help you approach the future boldly and courageously and get ready to make the most of 2022!
+ 
+
+ Simply 𝐜𝐥𝐢𝐜𝐤 ""𝐆𝐨𝐢𝐧𝐠"" to this event to receive notifications, or check this event page for each new video. Videos will be posted at noon Pacific time on Thursdays.",Astrology Heals,,"[{'percentage': '0.175035', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.210699', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.213046', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.119193', 'age': '65+', 'gender': 'female'}, {'percentage': '0.282027', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '3000', 'upper_bound': '3999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-05,"Gender: Female  
+Explanation: The ad emphasizes creating a caring and sustainable future, themes that often resonate more strongly with females.",female,female,"Gender: Female
+
+Explanation: The ad's focus on caring, sustainability, and hope for humanity resonates more with traditional feminine values and concerns."
+78,346895727357656.0,"VIDEO ONE IS HERE! Is there hope for humanity? Will the pandemic end? Will democracy be saved? Will climate change finally be taken seriously? Here are the bigger picture energies astrologers look at to answer these questions, including what we can glean from the current eclipse season. This is Video 1 in Marina's Countdown to 2022 - watch for a new video each Thursday throughout December!",Astrology Heals,,"[{'percentage': '0.014787', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.382625', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.400185', 'age': '65+', 'gender': 'female'}, {'percentage': '0.142329', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.060074', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-06,"Gender: Female  
+Explanation: Astrology content often appeals more to women, who traditionally show higher engagement in spiritual and introspective themes.",female,female,"Gender: Female
+
+Explanation: The tone and language used in the ad, focusing on hope and saving humanity, appeal more to a female audience."
+79,486797249332139.0,"Will you help a woman like Esther change the world?
+ 
+
+ In the past year, Esther has grown more than 1,200 trees in her community and trained others to do the same. Together they are taking action to reverse climate change and ensure their families' climate resilience.
+ 
+
+ Esther lives in Kenya. In 2019 her women’s group participated in WEA’s Women and Climate Training Program and learned they have the power to transform the climate crisis.
+ 
+
+ With the help of WEA, and our generous supporters, Esther’s group launched a native tree growing campaign and is training community members how to grow and manage trees on their land so that they can protect their native forests. Together, the group has grown more than 15,000 trees and protected 20 acres of forest!
+ 
+
+ Esther is just one example of how one woman can make a direct and meaningful impact on climate change. You can help another woman today! To learn more, click the link in our bio
+ 
+
+ https://womensearthalliance.org/shechangestheworld/
+ 
+
+ #womenleaders #womenempowerment #climatesolutions #nonprofitsofinstagram",Earth Island Institute,,"[{'percentage': '0.032318', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.336103', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.479224', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.041551', 'age': '65+', 'gender': 'female'}, {'percentage': '0.087719', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.023084', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '2000', 'upper_bound': '2999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-12-04,"Gender: Female
+Explanation: The ad specifically highlights women leaders and empowerment, making it more likely to target and inspire other women.",female,female,"Gender: Female
+
+Explanation: The ad features a female protagonist, Esther, and emphasizes women's empowerment, making it more appealing to female readers."
+80,612391316477231.0,Did you know that getting renewable energy could be as simple as a phone call? Learn what you can do to protect your kids' future.,Potential Energy Coalition Inc,,"[{'percentage': '0.088816', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.133898', 'age': '65+', 'gender': 'female'}, {'percentage': '0.093922', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.06353', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.351893', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.267941', 'age': '25-34', 'gender': 'female'}]","{'lower_bound': '25000', 'upper_bound': '29999'}","{'lower_bound': '1000', 'upper_bound': '1499'}",2021-12-05,"Gender: Female
+Explanation: The ad's focus on protecting ""kids' future"" often resonates more with women, who are typically seen as primary caregivers.",female,female,"Gender: Female
+Explanation: The ad's emphasis on ""kids' future"" may resonate more with females, who are often seen as primary caregivers."
+81,1202159840308572.0,"Clean burning ethanol is the climate solution we need now. Over 98% of vehicles on the road today can fuel up with e15/UNL88 that is affordable, available and grown right here in the cornfields of Iowa.
+ 
+
+ Learn more about how Iowa’s corn farmers are playing a vital role in clean, healthier fuels.",IOWA CORN GROWERS ASSOCIATION,,"[{'percentage': '0.028558', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.411186', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.560256', 'age': '25-34', 'gender': 'female'}]","{'lower_bound': '30000', 'upper_bound': '34999'}","{'lower_bound': '800', 'upper_bound': '899'}",2021-12-01,"Gender: Male
+Explanation: Men are more likely to be interested in automotive performance, agriculture, and biofuels, especially in a context that emphasizes practicality and local production.
+",female,male,"Gender: Male
+Explanation: The ad's focus on cars, fuel, and cornfields may appeal more to men, who are often associated with these topics."
+82,948373199364273.0,"Over generations, Illinois farm families have learned how to work with our climate to produce healthy crops and livestock.",ILLINOIS AGRICULTURAL ASSOCIATION,,"[{'percentage': '0.647991', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.314618', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.036423', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.000968', 'age': '13-17', 'gender': 'female'}]","{'lower_bound': '70000', 'upper_bound': '79999'}","{'lower_bound': '900', 'upper_bound': '999'}",2021-12-01,"Gender: Male
+Explanation: The ad emphasizes farming and agriculture, traditionally male-dominated fields, making men the more likely target audience for this message.
+
+o1-mini",female,male,"Gender: Male
+Explanation: Farming is traditionally associated with men, and the phrase ""farm families"" implies a patriarchal family structure."
+83,625966915206281.0,"When we gather, the world changes...
+ When the grassroots women leaders in our U.S. Accelerator uplift one another while deepenening their strategies, the world changes...
+ When our community comes together to hear from these leaders and amplify their stories and work, the world changes.
+ 
+
+ Join us for a very special virtual community event where you'll here directly from frontline leaders of WEA and @SierraClub's 2021 U.S. Grassroots Accelerator for Women Environmental Leaders. Because of their dedication, 30 climate and environmental initiatives across the U.S. and U.S. Territories are rising to protect our earth and build healthy, safe and just communities today and into the future.
+ 
+
+ RSVP now for this inspiring *virtual* event on Wednesday, December 1st at 4:00PM PT / 7:00PM ET! Link in bio to register.
+ 
+
+ We hope you'll join us on December 1st to change the world.
+ 
+
+ #womenempowerment #womenleaders #womensupportingwomen #climatesolutions #intersectionalenvironmentalism",Earth Island Institute,,"[{'percentage': '0.230177', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.456075', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.313748', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '5000', 'upper_bound': '5999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-11-23,"Gender: Female
+Explanation: The ad emphasizes women's empowerment, leadership, and support, which are themes that typically resonate more with a female audience.",female,female,"Gender: Female 
+
+Explanation: The ad uses hashtags #womenempowerment, #womenleaders, and #womensupportingwomen, indicating a female-centric audience."
+84,442868054217450.0,"To stop climate change, we just have to stop polluting. It’s that simple.",Potential Energy Coalition Inc,,"[{'percentage': '0.3121', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.278059', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.083923', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.125716', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.135827', 'age': '65+', 'gender': 'female'}, {'percentage': '0.064375', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '3000', 'upper_bound': '3999'}","{'lower_bound': '100', 'upper_bound': '199'}",2021-11-22,"Gender: Female
+Explanation: Environmental messages often resonate more with women, who are typically more engaged in sustainability and community health issues.",female,female,"Gender: Female
+
+Explanation: Females tend to be more environmentally conscious and altruistic, making them more likely to respond to a simplistic, emotive appeal."
+85,946447729413128.0,"""Using renewable energy to reduce the amount of greenhouses gases we let into the air is how we will be doing our part for the Earth. Biofuel blends like E15 (15% plant-based bioethanol) have higher octane ratings — meaning they are great for your engine — and are approved for use in all vehicles made in 2001 and newer. Plus biofuels are cleaner for the air and your health, reducing your vehicle’s carbon footprint and toxic emissions. We all need to come together and help preserve the environment and maintain the healthy and safe place that we call home, and choosing biofuels is a great and easy way to start."" —@passport4two
+ 
+
+ We couldn't have said it better! Biofuels are a simple, easy solution to help fight climate change that we can all get behind. Learn more in the link in our bio!","POET, LLC",,"[{'percentage': '0.80787', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.104167', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.087963', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-23,"Gender: Female
+Explanation: Women are often more engaged in making environmentally friendly choices and may respond positively to messages about health, safety, and climate action.
+",female,female,"Gender: Female
+Explanation: The ad's tone and language, focusing on health, safety, and preserving the environment, appeal more to female values and concerns."
+86,1088123145270901.0,"#ClimateChange affects us all. Learn the basics about how it works at:
+ https://tinyurl.com/dvfx22wd",Mark Howard Shapiro,,"[{'percentage': '0.386667', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.266667', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.253333', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.093333', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-22,"Gender: Female  
+Explanation: Women are often more targeted in environmental campaigns as they are seen as primary caregivers and community influencers.",female,female,"Gender: Female
+
+Explanation: The ad's tone is educational and environment-focused, appealing more to females who are generally more concerned about social issues."
+87,290736099636252.0,"🚨President Biden's Build Back Better Act has PASSED the House!
+ 
+
+ I am overjoyed to have voted to pass this monumental legislation, which will cut taxes for working families, reduce household costs and make critical investments in clean energy, child care, paid leave and so much more. And as confirmed by the Congressional Budget Office just yesterday, this once-in-a-generation legislation is 𝗻𝗼𝘁 𝗼𝗻𝗹𝘆 𝗳𝘂𝗹𝗹𝘆 𝗽𝗮𝗶𝗱 𝗳𝗼𝗿 𝗯𝘂𝘁 𝘄𝗼𝘂𝗹𝗱 𝗮𝗹𝘀𝗼 𝗿𝗲𝗱𝘂𝗰𝗲 𝘁𝗵𝗲 𝗱𝗲𝗳𝗶𝗰𝗶𝘁 𝗯𝘆 $𝟭𝟮𝟳 𝗯𝗶𝗹𝗹𝗶𝗼𝗻 𝗮𝗻𝗱 𝗲𝗮𝘀𝗲 𝗶𝗻𝗳𝗹𝗮𝘁𝗶𝗼𝗻.
+ 
+
+ From negotiating lower drug costs for seniors to providing universal pre-school for all 3- and 4-year olds, the Build Back Better Act will deliver real, lasting change to Americans of all ages in every community. With its passage in the House, we are one step closer to slashing families’ child care costs by extending the Child Tax Credit, expanding access to affordable home care for older adults and those with disabilities and reducing health care premiums for more than 9 million Americans. And by making big corporations and the wealthiest pay their fair share, not a single American making under $400,000 will pay a penny more in taxes.
+ 
+
+ On top of all of this, the Build Back Better Act invests more than $550 billion to deliver the largest effort to combat climate change in American history. By cutting pollution, reducing energy costs and creating new good-paying jobs through this bill, we are finally ensuring America leads the world in creating a 21st Century clean energy economy.
+ 
+
+ This is what building back better looks like for America and I could not be prouder to have voted to pass this landmark legislation. Now, let's get this passed in the Senate and sent to President Biden's desk immediately.",Office of Congresswoman Marie Newman,,"[{'percentage': '0.006541', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.118561', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.127555', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.457073', 'age': '65+', 'gender': 'female'}, {'percentage': '0.080131', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.210139', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '2000', 'upper_bound': '2999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-20,"Gender: Female
+Explanation: The ad highlights benefits like child care, paid leave, and health care, which are typically more emphasized to resonate with women.",female,female,"Gender: Female 
+
+Explanation: The ad's focus on childcare, paid leave, and affordability resonates more with female voters, who often prioritize family welfare."
+88,417479836490764.0,We've seen that ignoring expert advice can end in disaster. That's why we must take action on climate change!,Potential Energy Coalition Inc,,"[{'percentage': '0.210269', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.105134', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.179299', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.159739', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.242869', 'age': '65+', 'gender': 'female'}, {'percentage': '0.102689', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-19,"Gender: Female  
+Explanation: Women are generally more likely to be concerned about climate change and its impacts, making them more responsive to this ad.",female,female,"Gender: Female
+Explanation: Emphasis on prevention and taking care of the planet resonates more with females, who tend to be more nurturing."
+89,1399507633797738.0,"I am so pleased to announce that the House has passed the popular Build Back Better Act. This is a ground-breaking investment in our families, our communities, and our environment that people will be able to feel in their day-to-day lives.
+ 
+
+ This was a long process, so I wanted to highlight some of the major items that progressives secured:
+ 
+
+ 👪 Paid family and medical leave
+ 👶 An expanded child tax credit
+ 🌟 Massive investments in clean energy
+ 🏫 Childcare and universal pre-K
+ 💊 Lowering the cost of prescription drugs 
+ 
+
+ These are huge accomplishments, but there is still so much more we need to do. I am not finished fighting to expand medicare, make community college free, raise the minimum wage, and do other things that will help working families. Can you chip in $10 today to ensure that we have the resources to win these critical fights?",PRAMILA FOR CONGRESS,,"[{'percentage': '0.009524', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.07619', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.638095', 'age': '65+', 'gender': 'female'}, {'percentage': '0.228571', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.047619', 'age': '35-44', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-20,"Gender: Female  
+Explanation: The ad targets issues like paid family leave, childcare, and universal pre-K, resonating more with women, especially mothers.",female,female,"Gender: Female
+Explanation: The ad's focus on family, childcare, and medical leave, traditionally associated with female concerns, suggests a female author."
+90,283584500335627.0,"To demonstrate the value of nature-based solutions, The Nature Conservancy is teaming up with the City of Miami to restore and enhance the waterfront Morningside Park. Extreme high tides are eating away at the shoreline and heavy rainfall is inundating the surrounding community. With support from the Chubb Charitable Foundation, the Morningside Park Coastal Resilience Project will create a living shoreline to reduce flood risk to the park and nearby residents. 
+ 
+
+ Support for nature-based solutions and the Build Back Better Act in Congress is crucial to making Florida more resilient against the increasing impacts of climate change.",Nature Conservancy,,"[{'percentage': '0.037394', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.274125', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.150784', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.286791', 'age': '65+', 'gender': 'female'}, {'percentage': '0.110676', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.140229', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '5000', 'upper_bound': '5999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-17,"Gender: Female  
+Explanation: Women often show more interest in environmental conservation and community well-being, aligning closely with the project's goals and values.",female,female,"Gender: Female
+
+Explanation: The ad focuses on community and park restoration, appealing to females who tend to prioritize environmental and social issues."
+91,623604729055427.0,"Coastal cities face some of the greatest risks from climate change, with many parts of South Florida already feeling the impacts – in the form of excessively hot days ... king tides ... sunny-day flooding ... and even changes in the migratory patterns of birds.
+ 
+
+ The Brittany Bay Park Living Shoreline, Overlook and Park Renovation Project demonstrates how nature-based solutions – and support for the Build Back Better Act in Congress – can enhance gray infrastructure to create space for nature in heavily urbanized areas and further protect against climate-related hazards.",Nature Conservancy,,"[{'percentage': '0.164656', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.110007', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.160397', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.33286', 'age': '65+', 'gender': 'female'}, {'percentage': '0.211498', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.020582', 'age': '18-24', 'gender': 'female'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-17,"Gender: Female
+Explanation: Females are often perceived as more environmentally conscious and community-oriented, making them more likely to support such initiatives.",female,female,"Gender: Female
+Explanation: The ad focuses on environmental and community issues, which tend to resonate more with females, who are often more empathetic and altruistic."
+92,1285756918568465.0,"The Nature Conservancy and partners are constructing the Pensacola East Bay Oyster Habitat Restoration Project to boost oyster populations. The largest-scale estuarine habitat restoration undertaken in Florida by The Nature Conservancy, this project will place 33 oyster reefs along approximately 6.5 miles of Santa Rosa County shoreline, with the goal of returning oysters to a region where they thrived historically but have since declined.
+ 
+
+ Support for nature-based solutions and the Build Back Better Act in Congress is crucial to making Florida more resilient against the increasing impacts of climate change.",Nature Conservancy,,"[{'percentage': '0.275424', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.146186', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.105932', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.139831', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.288136', 'age': '65+', 'gender': 'female'}, {'percentage': '0.044492', 'age': '18-24', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-18,"Gender: Female  
+Explanation: Women often show higher environmental concern and support for conservation efforts, making them likely targets for such initiatives.",female,female,"Gender: Male
+Explanation: The ad's focus on large-scale infrastructure projects and climate resilience efforts may appeal more to male interests."
+93,1326065934522504.0,"The Nature Conservancy’s Disney Wilderness Preserve in Kissimmee comprises 11,500 acres of restored upland and wetland habitat, with more than 1,000 species of plants and animals – and is an essential part of the Florida Everglades ecosystem. 
+ 
+
+ Support for nature-based solutions and the Build Back Better Act in Congress is crucial to making meaningful progress and protecting Florida’s wetlands and the species that inhabit them.",Nature Conservancy,,"[{'percentage': '0.149987', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.140913', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.375347', 'age': '65+', 'gender': 'female'}, {'percentage': '0.124023', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.195362', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.014369', 'age': '18-24', 'gender': 'female'}]","{'lower_bound': '5000', 'upper_bound': '5999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-17,"Gender: Female
+Explanation: Women are often more engaged in environmental and conservation issues, making them a likely target for this ad.",female,female,"Gender: Female
+Explanation: The ad's focus on nature, conservation, and ecosystem protection may appeal more to females, who tend to prioritize environmental issues."
+94,375615677652997.0,"Between the COVID-19 pandemic, escalated attacks on abortion access, the devastating consequences of climate change, and Senate Republicans’ resistance to basic facts, it couldn’t be more important to send a science truth-teller to the U.S. Senate like Dr. Val Arkoosh. 
+ 
+
+ As a woman physician and public health advocate, Val will lead with facts and data to solve our hardest problems in the U.S. Senate. But she needs your help to get there.
+ 
+
+ Help us make history and elect Dr. Val Arkoosh. Chip in Now!",VAL ARKOOSH FOR US SENATE,,"[{'percentage': '0.006452', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.058065', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.083871', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.012903', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.625806', 'age': '65+', 'gender': 'female'}, {'percentage': '0.212903', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-15,"Gender: Female
+
+Explanation: The ad emphasizes women's issues like abortion access and highlights a woman physician, appealing primarily to female voters.",female,female,"Gender: Female
+
+Explanation: The ad targets females, as it highlights Dr. Val Arkoosh as a ""woman physician"" and may appeal more to women's rights advocates."
+95,418563063265912.0,"Our children stand to inherit a devastating climate crisis, and the lack of a nuclear waste solution threatens a clean energy solution. Join our movement to help solve this problem. www.solvenuclearwaste.org #notimeforwaste",Deep Isolation INC,,"[{'percentage': '0.058287', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.127809', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.366573', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.231742', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.21559', 'age': '25-34', 'gender': 'female'}]","{'lower_bound': '2000', 'upper_bound': '2999'}","{'lower_bound': '0', 'upper_bound': '99'}",2021-11-13,"Gender: Female  
+Explanation: Women tend to be more concerned and active about environmental issues and children's future, making them more likely targets.",female,female,"Gender: Female
+Explanation: The ad's emphasis on ""our children"" and concern for their future suggests a maternal instinct, targeting mothers and female caregivers."
+96,3133580000000000.0,Climate Change is the Challenge of our Generation,VAN HOLLEN FOR SENATE,,"[{'percentage': '0.369565', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.105978', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.399457', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.125', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-02-04,"Gender: Female  
+Explanation: Women are generally more responsive to environmental issues and sustainability, driving higher engagement with climate change messages.",female,female,"Gender: Female 
+Explanation: Females tend to be more empathetic and concerned about social and environmental issues, making them more receptive to this ad."
+97,232292409109440.0,"More than one million moms are protecting their families from climate change, toxic chemicals, and air pollution. We need your help.",Moms Clean Air Force,,"[{'percentage': '0.154639', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.139175', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.175258', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.402062', 'age': '65+', 'gender': 'female'}, {'percentage': '0.06701', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.061856', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-02-02,"Gender: Female  
+Explanation: The ad specifically mentions ""moms,"" targeting women by highlighting their role in protecting families from environmental issues.",female,female,"Gender: Female
+
+Explanation: The ad mentions ""moms"" specifically, indicating a strong focus on mothers, making females the target audience."
+98,1000224760617028.0,"Hurricane Ida DEVASTATED our communities just a few months ago. 
+ 
+
+ Our leaders have failed to act on climate change for far too long, and we’re paying the price. I’m running for Congress to protect our future with a Green New Deal ⬇️",Oakley for Congress,,"[{'percentage': '0.446429', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.375', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.169643', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.008929', 'age': '13-17', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-02-02,"Gender: Female
+Explanation: Women are often more active in environmental advocacy and resonate deeply with community protection and future-oriented policies.",female,female,"Gender: Female
+Explanation: The use of ""I'm"" and the emotional tone of the message, focusing on protection and community, suggest a female candidate."
+99,722090508777508.0,"We created Numi’s compostable, plant-based tea wrappers to displace our consumption of fossil fuels—14.3 metric tonnes of virgin plastic per year to be exact. By choosing plant-based packaging, you can protect our climate, oceans, and soil, while opening up pathways to a plastic-free future. Together, let’s do this On Purpose. 🤝
+ 
+
+ #1SteptoZeroWaste #OnPurpose #Compostable #Plantbased #Plantbasedpackaging #ZeroWastePackaging #NewYearNewYou #DrinkNumi #ActivatingPurpose",Numi Organic Tea,,"[{'percentage': '0.116715', 'age': '65+', 'gender': 'female'}, {'percentage': '0.134006', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.115274', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.236311', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.305476', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.092219', 'age': '18-24', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-27,"Gender: Female  
+Explanation: The ad's focus on sustainability and zero waste resonates strongly with female consumers' tendency to prefer eco-friendly and purpose-driven brands.",female,female,"Gender: Female
+
+Explanation: The language used is emotive and focuses on nurturing the planet, which tends to appeal more to females."
+100,644816906937705.0,"We get asked frequently how to dispose of our plant-based tea bag wrappers when you don't have access to commercial composting. The best place for these wrappers is the trash, not the recycling bin (the material can be hard for recyclers to handle). You can also try throwing them in your own backyard compost, though we can't vouch for the quality of your pile. 
+ 
+
+ Ending up in the garbage is not ideal, but there are still major benefits to these plant-based materials: 
+ ✅ They produce 67% less greenhouse gas emissions than conventional wrappers
+ ✅ They're made from renewable resources like sugarcane and eucalyptus, which helps us transition away from fossil fuels
+ ✅ They produce no eco-toxicity when they break down
+ 
+
+ Although we'd love to see ALL our wrappers composted, the truth is that only around 5% of U.S. households have municipal composting services. Composting programs are an essential tool in the fight against climate change. They also reduce food waste, replenish soil, and boost food production.
+ 
+
+ To find composting services near you, enter your address at findacomposter.com. If you can't find one, contact your lawmakers to advocate for more composting in your area!
+ 
+
+ #1SteptoZeroWaste #OnPurpose #Compostable #Plantbased #Plantbasedpackaging #ZeroWastePackaging #NewYearNewYou #DrinkNumi #ActivatingPurpose",Numi Organic Tea,,"[{'percentage': '0.000619', 'age': '13-17', 'gender': 'female'}, {'percentage': '0.682635', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.292794', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.023952', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '6000', 'upper_bound': '6999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-27,"Gender: Female
+Explanation: The ad's focus on environmental benefits, composting, and plant-based products often appeals more strongly to women.",female,female,"Gender: Female
+
+Explanation: The ad's focus on environmental concerns, wellness, and self-improvement (e.g., ""#NewYearNewYou"") may appeal more to females."
+101,1076968589812735.0,"More than one million moms are protecting their families from climate change, toxic chemicals, and air pollution. Learn how you can help.",Moms Clean Air Force,,"[{'percentage': '0.031592', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.130012', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.261644', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.188335', 'age': '65+', 'gender': 'female'}, {'percentage': '0.277845', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.110571', 'age': '45-54', 'gender': 'female'}]","{'lower_bound': '2000', 'upper_bound': '2999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-27,"Gender: Female  
+Explanation: The ad specifically appeals to ""moms,"" indicating it primarily targets female caregivers concerned about environmental and health issues.",female,female,"Gender: Female
+Explanation: The ad mentions ""moms"" specifically, implying a target audience of mothers, which are typically female."
+102,621728338882583.0,"“In summary, the Act will increase incentives for reducing carbon emissions and will also fund much-needed investments that will facilitate reducing emissions. It will address inequities faced by environmental justice communities and also increase the Commonwealth’s long-term economic competitiveness.”
+ 
+
+ - Dr. Robert Triest Chair of Economics Northeastern",ClimateXChange Education and Research,,"[{'percentage': '0.038462', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.961538', 'age': '65+', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-21,"Gender: Female
+Explanation: The ad's emphasis on environmental justice and reducing inequities may resonate more with women concerned about social issues.
+",female,female,"Gender: Male
+Explanation: Title ""Dr."" and last name ""Triest"" are more commonly associated with males, implying a male author."
+103,501246318084235.0,"Things are stalled in DC but Massachusetts can pass its own historic climate change legislation, the Green Future Act. It gets us to net-zero emissions by 2050, creates green jobs, and helps your community prepare for climate change.",ClimateXChange Education and Research,,"[{'percentage': '0.058471', 'age': '65+', 'gender': 'female'}, {'percentage': '0.032984', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.088456', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.373313', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.397301', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.049475', 'age': '55-64', 'gender': 'female'}]","{'lower_bound': '2000', 'upper_bound': '2999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-20,"Gender: Female  
+Explanation: Women typically exhibit more concern about climate change, making them more receptive to messages promoting environmental legislation and green jobs.",female,female,"Gender: Female 
+
+Explanation: Emphasis on community preparation and green jobs may appeal more to females, who tend to prioritize social and environmental issues."
+104,286534710126245.0,"$𝟕𝟔𝟖,𝟎𝟎𝟎,𝟎𝟎𝟎,𝟎𝟎𝟎
+ 
+
+ That’s how much Congress voted to spend on the Pentagon’s already bloated budget this year — all while some claim we do not have the money for child care, health care, and climate action. It is completely upside-down that our Democratic majority would approve more in military spending than Donald Trump’s last Pentagon budget. 
+ 
+
+ I voted against this excessive spending because it’s a giveaway to defense contractors and giant corporations, all while millions of people in this country have to struggle without health care, affordable housing, and fully funded schools. 
+ 
+
+ Part of undoing the cruel damage from the Trump administration is spending our federal dollars on taking on climate change, strengthening the social safety net, and expanding health care. Congress should not be wasting money on military bloat. I won’t stop fighting to invest in working people, families, and our communities — and I need you in this fight with me. Can you chip in $17 to fuel our people-first efforts?",PRAMILA FOR CONGRESS,,"[{'percentage': '0.051345', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.767726', 'age': '65+', 'gender': 'female'}, {'percentage': '0.146699', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.012225', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.017115', 'age': '25-34', 'gender': 'female'}, {'percentage': '0.00489', 'age': '18-24', 'gender': 'female'}]","{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-19,"Gender: Female  
+Explanation: Emphasizing social safety nets, climate action, and healthcare often resonates more with female voters prioritizing community and family well-being.",female,female,"Gender: Female
+Explanation: The language and tone used, especially the mention of ""child care"" and ""working people, families, and our communities,"" suggests a female perspective."
+105,364770145457977.0,"Joe Manchin’s declaration that he would vote “no” on the Build Back Better Act is a betrayal of the millions of voters who elected Democrats to pass popular policies like universal pre-K, paid leave, affordable child care, fighting climate change, Medicare expansion, affordable housing, lower prescription drug costs, and more.
+ 
+
+ This fight is NOT over. We’re going to keep pushing for Build Back Better and the popular policies in this bill. But the fact that one senator can tank President Biden’s necessary agenda shows that we must work to expand progressive power in the House and the Senate. 
+ 
+
+ Pramila is one of the only House incumbents who runs a year-round organizing effort to turn out new voters for progressive candidates. Can you chip in $10 today to help us ramp up our organizing efforts and elect more progressives across the country?",PRAMILA FOR CONGRESS,,"[{'percentage': '0.035683', 'age': '35-44', 'gender': 'female'}, {'percentage': '0.003481', 'age': '18-24', 'gender': 'female'}, {'percentage': '0.185379', 'age': '55-64', 'gender': 'female'}, {'percentage': '0.046997', 'age': '45-54', 'gender': 'female'}, {'percentage': '0.705831', 'age': '65+', 'gender': 'female'}, {'percentage': '0.022628', 'age': '25-34', 'gender': 'female'}]","{'lower_bound': '1000', 'upper_bound': '1999'}","{'lower_bound': '0', 'upper_bound': '99'}",2022-01-19,"Gender: Female
+Explanation: Women may resonate more with policies like universal pre-K, paid leave, and affordable child care, which directly impact family welfare.",female,female,"Gender: Female
+
+Explanation: The name ""Pramila"" is a female name, and the context suggests a female candidate running for office."
