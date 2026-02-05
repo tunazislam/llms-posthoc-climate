@@ -10,8 +10,6 @@ Python 3.9.19
 
 PyTorch 1.13.1
 
-openai
-
 jupiter notebook
 
 pandas
@@ -42,8 +40,17 @@ seaborn
 
 BERTopic
 
-## Instructions for running code:
+tiktoken
 
+openai
+
+groq
+
+mistralai
+
+## Directory Structure:
+- `Data/`: Contains all datasets.
+- `code/`: Contains scripts for prediction, assignment, and analysis.
 
 ## Citation:
 
