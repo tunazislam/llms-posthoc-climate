@@ -2,7 +2,7 @@
 This repository contains code and data for the paper titled "[Post-hoc Study of Climate Microtargeting on Social Media Ads with LLMs: Thematic Insights and Fairness Evaluation](https://aclanthology.org/2025.findings-emnlp.857.pdf)", [EMNLP 2025](https://2025.emnlp.org/).
 
 ## Necessary Libraries
-The model is implemented in Python 3. 
+The code is implemented in Python 3. 
 
 Other major libraries needed:
 
