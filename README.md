@@ -54,7 +54,7 @@ mistralai
 
 ## Citation:
 
-If you find the paper useful in your work, please cite:
+If you find the paper/code/data useful in your work, please cite:
 
 ```
 @inproceedings{islam-goldwasser-2025-post,
