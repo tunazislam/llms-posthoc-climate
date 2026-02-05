@@ -50,7 +50,7 @@ mistralai
 
 ## Directory Structure:
 - `Data/`: Contains all datasets.
-- `code/`: Contains scripts for prediction, assignment, and analysis.
+- `Code/`: Contains scripts for prediction, assignment, and analysis.
 
 ## Citation:
 
